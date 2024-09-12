@@ -1,0 +1,39 @@
+,match_id,match_date,kick_off,home_team,away_team,home_score,away_score,match_week,stadium,referee,home_managers,away_managers,home_play,result
+0,3878546,2015-08-23,20:45:00.000,Sassuolo,Napoli,2,1,1,MAPEI Stadium - Città del Tricolore,Daniele Doveri,Eusebio Di Francesco,Maurizio Sarri,False,Lose
+1,3878558,2015-08-30,20:45:00.000,Napoli,Sampdoria,2,2,2,Stadio Diego Armando Maradona,Andrea Gervasoni,Maurizio Sarri,Walter Zenga,True,Draw
+2,3878597,2015-09-13,15:00:00.000,Empoli,Napoli,2,2,3,Stadio Carlo Castellani,Luca Banti,Marco Giampaolo,Maurizio Sarri,False,Draw
+3,3878604,2015-09-20,20:45:00.000,Napoli,Lazio,5,0,4,Stadio Diego Armando Maradona,Antonio Damato,Maurizio Sarri,Stefano Pioli,True,Win
+4,3879539,2015-09-23,20:45:00.000,Carpi,Napoli,0,0,5,Stadio Alberto Braglia (Modena),Gianluca Rocchi,Fabrizio Castori,Maurizio Sarri,False,Draw
+5,3879548,2015-09-26,20:45:00.000,Napoli,Juventus,2,1,6,Stadio Diego Armando Maradona,Daniele Orsato,Maurizio Sarri,Massimiliano Allegri,True,Win
+6,3879562,2015-10-04,20:45:00.000,AC Milan,Napoli,0,4,7,Stadio Giuseppe Meazza    ,Nicola Rizzoli,Siniša Mihajlović,Maurizio Sarri,False,Win
+7,3879572,2015-10-18,15:00:00.000,Napoli,Fiorentina,2,1,8,Stadio Diego Armando Maradona,Luca Banti,Maurizio Sarri,Paulo Manuel Carvalho de Sousa,True,Win
+8,3879581,2015-10-25,20:45:00.000,Chievo,Napoli,0,1,9,Stadio Marc''Antonio Bentegodi,Davide Massa,Rolando Maran,Maurizio Sarri,False,Win
+9,3879593,2015-10-28,21:45:00.000,Napoli,Palermo,2,0,10,Stadio Diego Armando Maradona,Piero Giacomelli,Maurizio Sarri,Giuseppe Iachini,True,Win
+10,3879604,2015-11-01,16:00:00.000,Genoa,Napoli,0,0,11,Stadio Comunale Luigi Ferraris,Daniele Doveri,Gian Piero Gasperini,Maurizio Sarri,False,Draw
+11,3879609,2015-11-08,19:00:00.000,Napoli,Udinese,1,0,12,Stadio Diego Armando Maradona,Domenico Celi,Maurizio Sarri,Stefano Colantuono,True,Win
+12,3879620,2015-11-22,13:30:00.000,Hellas Verona,Napoli,0,2,13,Stadio Marc''Antonio Bentegodi,Antonio Damato,Andrea Mandorlini,Maurizio Sarri,False,Win
+13,3879635,2015-11-30,22:00:00.000,Napoli,Inter Milan,2,1,14,Stadio Diego Armando Maradona,Daniele Orsato,Maurizio Sarri,Roberto Mancini,True,Win
+14,3879645,2015-12-06,13:30:00.000,Bologna,Napoli,3,2,15,Stadio Renato Dall''Ara,Paolo Silvio Mazzoleni,Roberto Donadoni,Maurizio Sarri,False,Lose
+15,3879651,2015-12-13,19:00:00.000,Napoli,AS Roma,0,0,16,Stadio Diego Armando Maradona,Nicola Rizzoli,Maurizio Sarri,Rudi Garcia,True,Draw
+16,3879661,2015-12-20,16:00:00.000,Atalanta,Napoli,1,3,17,Gewiss Stadium,Gianluca Rocchi,Edoardo Reja,Maurizio Sarri,False,Win
+17,3879669,2016-01-06,21:45:00.000,Napoli,Torino,2,1,18,Stadio Diego Armando Maradona,Marco Di Bello,Maurizio Sarri,Gian Piero Ventura	,True,Win
+18,3879679,2016-01-10,16:00:00.000,Frosinone,Napoli,1,5,19,Stadio Comunale Matusa,Paolo Tagliavento,Roberto Stellone,Maurizio Sarri,False,Win
+19,3879686,2016-01-16,21:45:00.000,Napoli,Sassuolo,3,1,20,Stadio Diego Armando Maradona,Piero Giacomelli,Maurizio Sarri,Eusebio Di Francesco,True,Win
+20,3879699,2016-01-24,16:00:00.000,Sampdoria,Napoli,2,4,21,Stadio Comunale Luigi Ferraris,Daniele Orsato,Vincenzo Montella,Maurizio Sarri,False,Win
+21,3879714,2016-01-31,16:00:00.000,Napoli,Empoli,5,1,22,Stadio Diego Armando Maradona,Davide Massa,Maurizio Sarri,Marco Giampaolo,True,Win
+22,3879720,2016-02-03,21:45:00.000,Lazio,Napoli,0,2,23,Estadio Olímpico,Massimiliano Irrati,Stefano Pioli,Maurizio Sarri,False,Win
+23,3879731,2016-02-07,16:00:00.000,Napoli,Carpi,1,0,24,Stadio Diego Armando Maradona,Daniele Doveri,Maurizio Sarri,Fabrizio Castori,True,Win
+24,3879739,2016-02-13,21:45:00.000,Juventus,Napoli,1,0,25,Allianz Stadium    	,Daniele Orsato,Massimiliano Allegri,Maurizio Sarri,False,Lose
+25,3879756,2016-02-22,22:00:00.000,Napoli,AC Milan,1,1,26,Stadio Diego Armando Maradona,Luca Banti,Maurizio Sarri,Siniša Mihajlović,True,Draw
+26,3879765,2016-02-29,22:00:00.000,Fiorentina,Napoli,1,1,27,Stadio Artemio Franchi    	,Paolo Tagliavento,Paulo Manuel Carvalho de Sousa,Maurizio Sarri,False,Draw
+27,3879769,2016-03-05,21:45:00.000,Napoli,Chievo,3,1,28,Stadio Diego Armando Maradona,Marco Di Bello,Maurizio Sarri,Rolando Maran,True,Win
+28,3879786,2016-03-13,21:45:00.000,Palermo,Napoli,0,1,29,Stadio Renzo Barbera,Gianluca Rocchi,Walter Novellino,Maurizio Sarri,False,Win
+29,3879796,2016-03-20,19:00:00.000,Napoli,Genoa,3,1,30,Stadio Diego Armando Maradona,Andrea Gervasoni,Maurizio Sarri,Gian Piero Gasperini,True,Win
+30,3879803,2016-04-03,12:30:00.000,Udinese,Napoli,3,1,31,Dacia Arena,Massimiliano Irrati,Luigi De Canio,Maurizio Sarri,False,Lose
+31,3879811,2016-04-10,15:00:00.000,Napoli,Hellas Verona,3,0,32,Stadio Diego Armando Maradona,Domenico Celi,Maurizio Sarri,Luigi Delneri,True,Win
+32,3879817,2016-04-16,20:45:00.000,Inter Milan,Napoli,2,0,33,Stadio Giuseppe Meazza    ,Gianluca Rocchi,Roberto Mancini,Maurizio Sarri,False,Lose
+33,3879827,2016-04-19,20:45:00.000,Napoli,Bologna,6,0,34,Stadio Diego Armando Maradona,Andrea Gervasoni,Maurizio Sarri,Roberto Donadoni,True,Win
+34,3879845,2016-04-25,15:00:00.000,AS Roma,Napoli,1,0,35,Estadio Olímpico,Daniele Orsato,Luciano Spalletti,Maurizio Sarri,False,Lose
+35,3879855,2016-05-02,21:00:00.000,Napoli,Atalanta,2,1,36,Stadio Diego Armando Maradona,Piero Giacomelli,Maurizio Sarri,Edoardo Reja,True,Win
+36,3879862,2016-05-08,20:45:00.000,Torino,Napoli,1,2,37,Stadio Olimpico Grande Torino,Antonio Damato,Gian Piero Ventura	,Maurizio Sarri,False,Win
+37,3879867,2016-05-14,20:45:00.000,Napoli,Frosinone,4,0,38,Stadio Diego Armando Maradona,Domenico Celi,Maurizio Sarri,Roberto Stellone,True,Win

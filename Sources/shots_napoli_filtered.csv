@@ -1,0 +1,665 @@
+,location,out,player,position,shot_aerial_won,shot_body_part,shot_deflected,shot_end_location,shot_first_time,shot_one_on_one,shot_open_goal,shot_outcome,shot_technique,shot_type,under_pressure,shot_saved_to_post,shot_saved_off_target,xG
+3169,"[106.4, 57.4]",,Gonzalo Gerardo Higuaín,Right Center Forward,,Right Foot,,"[113.0, 45.2]",,,,Blocked,Normal,Open Play,,,,0.0012443988
+3170,"[114.9, 46.7]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 40.5, 0.2]",True,,,Goal,Half Volley,Open Play,True,,,0.9867039
+3171,"[104.7, 49.4]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[109.1, 45.0]",True,,,Wayward,Volley,Open Play,,,,0.0008347573
+3172,"[116.3, 44.9]",,Gonzalo Gerardo Higuaín,Right Center Forward,,Right Foot,,"[118.0, 43.5, 0.5]",True,,,Saved,Half Volley,Open Play,True,,,0.0048588375
+3178,"[102.7, 61.1]",True,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 18.4]",True,,,Wayward,Half Volley,Open Play,,,,0.002779607
+3183,"[94.7, 37.4]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[97.8, 37.7]",True,,,Blocked,Normal,Open Play,,,,0.0021774627
+3185,"[94.1, 28.4]",,Mirko Valdifiori,Center Defensive Midfield,,Right Foot,True,"[118.2, 37.5, 0.9]",True,,,Saved,Normal,Open Play,,,,0.0025758506
+3188,"[94.9, 49.0]",,Dries Mertens,Left Center Forward,,Right Foot,,"[120.0, 35.1, 2.8]",,,,Off T,Normal,Free Kick,,,,0.002919165
+3193,"[105.6, 49.1]",,Dries Mertens,Left Center Forward,,Left Foot,,"[120.0, 45.9, 0.2]",,,,Off T,Normal,Open Play,True,,,0.003330522
+3194,"[97.8, 23.2]",,Dries Mertens,Left Center Forward,,Right Foot,,"[120.0, 35.2, 3.7]",,,,Off T,Normal,Free Kick,,,,0.0022374878
+3195,"[100.9, 53.7]",,Manolo Gabbiadini,Right Center Forward,,Left Foot,,"[102.2, 52.8]",True,,,Blocked,Normal,Open Play,True,,,0.0007583444
+3196,"[102.1, 29.5]",,Dries Mertens,Left Center Forward,,Right Foot,,"[120.0, 35.1, 0.2]",,,,Off T,Normal,Open Play,True,,,0.002309939
+3197,"[102.7, 25.1]",,Marek Hamšík,Left Center Midfield,,Left Foot,True,"[118.1, 36.4, 0.2]",,,,Saved,Normal,Open Play,,,,0.00092277036
+3199,"[111.0, 52.3]",True,José María Callejón Bueno,Left Center Forward,,Right Foot,,"[111.3, 0.1]",True,,,Wayward,Volley,Open Play,True,,,0.003310844
+3200,"[104.0, 57.1]",,José María Callejón Bueno,Left Center Forward,,Right Foot,,"[120.0, 34.3, 0.2]",True,,,Off T,Half Volley,Open Play,,,,0.002838698
+7518,"[98.6, 17.5]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 36.4, 3.9]",,,,Off T,Normal,Open Play,,,,0.0034790142
+7520,"[113.2, 34.3]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Left Foot,,"[120.0, 42.4, 0.4]",True,,,Goal,Lob,Open Play,,,,0.99288964
+7521,"[96.3, 26.0]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 44.0, 1.1]",,,,Post,Normal,Open Play,,,,0.045398835
+7523,"[95.4, 35.1]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Left Foot,,"[120.0, 33.0, 5.6]",,,,Off T,Normal,Open Play,,,,0.0018912372
+7525,"[108.9, 52.6]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[109.8, 51.7]",True,,,Blocked,Normal,Open Play,True,,,0.0025059555
+7526,"[116.0, 31.9]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Left Foot,,"[120.0, 34.5, 0.5]",True,,,Off T,Half Volley,Open Play,,,,0.0075269807
+7527,"[98.0, 72.9]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 41.9, 4.1]",,,,Off T,Normal,Open Play,,,,0.004881603
+7528,"[109.2, 26.7]",,Lorenzo Insigne,Center Attacking Midfield,,Left Foot,,"[120.0, 45.4, 1.4]",,,,Off T,Normal,Open Play,,,,0.018407367
+7529,"[101.2, 22.6]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[104.4, 25.8]",,,,Blocked,Normal,Open Play,,,,0.0010007342
+7532,"[110.4, 50.6]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[120.0, 37.4, 0.3]",True,,,Goal,Half Volley,Open Play,,,,0.9888043
+7533,"[90.3, 39.5]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 33.0, 0.4]",,,,Off T,Normal,Open Play,,,,0.0049649864
+7534,"[111.9, 42.6]",,Kalidou Koulibaly,Left Center Back,True,Head,,"[119.4, 38.9, 2.4]",,,,Saved,Normal,Open Play,True,,,0.003190502
+7535,"[100.2, 38.8]",,Lorenzo Insigne,Center Attacking Midfield,,Left Foot,,"[102.6, 39.2]",,,,Blocked,Normal,Open Play,,,,0.0016780762
+7536,"[105.1, 32.0]",,Lorenzo Insigne,Center Attacking Midfield,,Left Foot,,"[117.0, 39.0, 0.2]",,,,Saved,Normal,Open Play,,,,0.0012239092
+7537,"[96.1, 56.9]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 31.3, 0.4]",,,,Off T,Normal,Open Play,,,,0.0049872743
+7538,"[111.5, 55.7]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[111.8, 55.1]",,,,Blocked,Normal,Open Play,True,,,0.0035836382
+7541,"[97.0, 41.2]",,David López Silva,Right Center Midfield,,Right Foot,,"[116.4, 40.0, 0.2]",,,,Saved,Normal,Open Play,,,,0.0026438434
+7543,"[89.6, 37.4]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[92.1, 37.4]",,,,Blocked,Normal,Open Play,True,,,0.0027385158
+7544,"[105.1, 42.8]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Head,,"[120.0, 25.9, 0.6]",,,,Off T,Normal,Open Play,,,,0.0028476692
+7545,"[107.9, 41.0]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[110.3, 40.3]",True,,,Blocked,Volley,Open Play,,,,0.0020662232
+7546,"[98.9, 42.5]",,David López Silva,Right Center Midfield,,Right Foot,,"[120.0, 32.8, 4.2]",,,,Off T,Normal,Open Play,,,,0.0027160882
+7547,"[99.2, 28.9]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[100.1, 29.3]",True,,,Blocked,Normal,Open Play,,,,0.0015093468
+7548,"[108.0, 31.3]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 45.0, 2.4]",True,,,Off T,Normal,Open Play,True,,,0.013981443
+7549,"[108.1, 36.7]",,Raúl Albiol i Tortajada,Right Center Back,,Head,,"[118.3, 42.3, 1.3]",,,,Saved,Normal,Open Play,,,,0.0041393857
+7552,"[107.6, 22.5]",,Lorenzo Insigne,Center Attacking Midfield,,Left Foot,,"[120.0, 36.2, 4.5]",,,,Off T,Normal,Open Play,,,,0.0015967808
+7553,"[101.1, 24.5]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[117.9, 38.6, 1.7]",,,,Saved,Normal,Open Play,True,,,0.0011796874
+7554,"[98.2, 44.3]",,David López Silva,Right Center Midfield,,Right Foot,,"[105.2, 41.7]",True,,,Blocked,Normal,Open Play,True,,,0.0024455832
+11250,"[96.8, 50.2]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 37.3, 1.4]",True,,,Goal,Normal,Open Play,,,,0.9466059
+11252,"[95.2, 33.7]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[120.0, 60.1, 4.2]",True,,,Off T,Normal,Open Play,True,,,0.0019653002
+11256,"[97.3, 23.4]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[99.4, 24.8]",,,,Blocked,Normal,Open Play,,,,0.0015936808
+11259,"[113.1, 27.7]",,Lorenzo Insigne,Center Attacking Midfield,,Left Foot,,"[114.2, 29.6]",,True,,Blocked,Normal,Open Play,,,,0.0031801306
+11260,"[116.2, 28.8]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[119.1, 35.6, 0.4]",,,,Saved,Half Volley,Open Play,,,,0.004191415
+11261,"[89.7, 45.8]",,Christian Maggio,Right Back,,Right Foot,,"[120.0, 52.1, 1.4]",True,,,Off T,Normal,Open Play,,,,0.0014824605
+11263,"[84.6, 47.3]",,Manolo Gabbiadini,Right Center Forward,,Left Foot,,"[120.0, 46.4, 0.6]",,,,Off T,Normal,Open Play,,,,0.002042271
+11264,"[89.8, 47.9]",,Manolo Gabbiadini,Right Center Forward,,Left Foot,,"[120.0, 33.5, 2.6]",,,,Off T,Normal,Free Kick,,,,0.00513015
+11265,"[56.2, 61.2]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 29.7, 1.0]",,,,Off T,Lob,Open Play,True,,,0.0046339086
+11266,"[103.5, 58.4]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[106.0, 55.0]",,,,Blocked,Normal,Open Play,,,,0.0009051835
+11267,"[92.5, 39.1]",,Elseid Hysaj,Left Back,,Right Foot,,"[101.6, 33.2]",True,,,Wayward,Volley,Open Play,,,,0.0012226665
+11268,"[110.8, 33.3]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 43.0, 0.6]",,,,Goal,Normal,Open Play,,,,0.9961196
+11272,"[110.7, 28.0]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Left Foot,,"[120.0, 47.0, 0.2]",True,,,Off T,Normal,Open Play,,,,0.037739765
+11273,"[100.4, 34.5]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 35.5, 3.0]",True,,,Off T,Half Volley,Open Play,,,,0.0012569784
+11275,"[101.2, 22.6]",,Elseid Hysaj,Left Back,,Right Foot,,"[103.1, 24.6]",,,,Blocked,Normal,Open Play,,,,0.0008885264
+11278,"[99.7, 39.8]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[102.0, 40.1]",True,,,Blocked,Normal,Open Play,True,,,0.0018296725
+11279,"[98.2, 39.9]",,Dries Mertens,Left Wing,,Left Foot,,"[100.5, 40.0]",,,,Blocked,Normal,Open Play,True,,,0.002603294
+11280,"[101.2, 54.3]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[118.9, 43.5, 0.5]",True,,,Saved,Normal,Open Play,,,,0.001202846
+15216,"[108.9, 39.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[115.3, 39.5, 0.7]",True,,,Saved,Half Volley,Open Play,,,,0.005213202
+15218,"[99.7, 46.6]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[105.7, 43.8]",True,,,Blocked,Half Volley,Open Play,True,,,0.00081958954
+15219,"[94.4, 27.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 42.1, 5.9]",,,,Off T,Normal,Open Play,,,,0.0067932736
+15220,"[62.3, 62.6]",,Raúl Albiol i Tortajada,Right Center Back,,Right Foot,,"[120.0, 42.7, 4.0]",,,,Off T,Lob,Free Kick,,,,0.005559834
+15221,"[96.9, 36.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 36.8, 0.4]",,,,Goal,Normal,Open Play,True,,,0.9429772
+15222,"[111.5, 51.0]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[117.1, 12.7]",True,,,Wayward,Volley,Open Play,,,,0.0024343692
+15223,"[91.9, 28.2]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[117.2, 37.9, 0.2]",,,,Saved,Normal,Open Play,True,,,0.0022695074
+15224,"[93.9, 42.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[98.2, 41.5]",,,,Blocked,Normal,Open Play,True,,,0.003210413
+15225,"[103.9, 42.2]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 42.1, 1.4]",,,,Goal,Normal,Open Play,True,,,0.95370793
+15226,"[109.0, 29.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[111.4, 32.0]",,,,Blocked,Normal,Open Play,True,,,0.0033058077
+15227,"[103.0, 22.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.9, 36.8, 0.3]",,,,Saved,Normal,Open Play,True,,,0.0020994393
+15228,"[105.2, 38.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[114.4, 38.6, 0.5]",,,,Saved,Normal,Open Play,,,,0.0033422206
+15229,"[115.2, 31.6]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 37.8, 0.5]",True,,,Goal,Half Volley,Open Play,,,,0.98494637
+15231,"[110.7, 52.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.3, 1.4]",,True,,Goal,Normal,Open Play,True,,,0.98662937
+15234,"[107.7, 21.8]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 35.2, 5.3]",,,,Off T,Normal,Open Play,,,,0.0022300645
+15235,"[108.8, 29.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.7, 36.7, 1.4]",,,,Saved,Normal,Open Play,True,,,0.0031716244
+15237,"[100.5, 37.2]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 40.2, 0.2]",True,,,Goal,Normal,Open Play,,,,0.9558765
+15238,"[102.7, 23.2]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 40.2, 4.8]",,,,Off T,Normal,Open Play,,,,0.0031607975
+15242,"[91.3, 28.5]",,Omar El Kaddouri,Left Wing,,Right Foot,,"[120.0, 46.1, 6.8]",,,,Off T,Normal,Open Play,,,,0.0018525374
+19023,"[98.4, 37.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[101.6, 38.3]",,,,Blocked,Normal,Open Play,,,,0.0026485275
+19025,"[93.7, 25.2]",,Dries Mertens,Right Wing,,Right Foot,,"[102.7, 29.2]",,,,Blocked,Normal,Free Kick,,,,0.0015074185
+19027,"[99.4, 44.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 44.5, 3.9]",True,,,Off T,Normal,Open Play,,,,0.0015067274
+19028,"[110.6, 44.2]",,Kalidou Koulibaly,Left Center Back,True,Head,,"[120.0, 30.7, 1.0]",,,,Off T,Normal,Open Play,True,,,0.005650982
+19029,"[102.6, 37.9]",,Dries Mertens,Right Wing,,Left Foot,,"[104.0, 37.9]",True,,,Blocked,Normal,Open Play,,,,0.000975435
+19031,"[112.6, 36.9]",,Marek Hamšík,Left Center Midfield,,Head,,"[118.1, 38.2, 1.2]",,,,Saved,Normal,Open Play,,,,0.0040507335
+19032,"[107.1, 44.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[108.1, 44.1]",,,,Blocked,Half Volley,Open Play,,,,0.001506115
+19034,"[109.1, 46.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[112.0, 44.4, 1.3]",True,,,Saved,Normal,Open Play,,,,0.00183124
+19035,"[105.2, 50.1]",,Dries Mertens,Right Wing,,Right Foot,,"[106.1, 49.5]",,,,Blocked,Normal,Open Play,,,,0.0008753559
+19036,"[108.8, 44.3]",,Raúl Albiol i Tortajada,Right Center Back,True,Head,,"[118.2, 40.8, 1.3]",,,,Saved,Normal,Open Play,True,,,0.0027784994
+19038,"[94.5, 29.3]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 42.2, 4.6]",,,,Off T,Normal,Open Play,True,,,0.0055073434
+19040,"[93.4, 26.9]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 42.1, 4.2]",,,,Off T,Normal,Open Play,,,,0.0067932736
+19041,"[92.9, 30.9]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 35.2, 0.9]",,,,Off T,Normal,Open Play,True,,,0.0052268305
+19043,"[89.6, 35.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 41.2, 6.6]",,,,Off T,Normal,Open Play,,,,0.0050756866
+19044,"[86.3, 26.7]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[91.7, 28.7]",,,,Blocked,Normal,Open Play,,,,0.0013198635
+19046,"[105.0, 26.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.7, 4.8]",,,,Off T,Normal,Open Play,,,,0.004226746
+19047,"[83.2, 26.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 46.4, 5.7]",,,,Off T,Normal,Open Play,,,,0.0018525374
+19048,"[109.4, 55.4]",,Lorenzo Insigne,Center Attacking Midfield,,Right Foot,,"[120.0, 45.1, 0.9]",True,,,Off T,Half Volley,Open Play,,,,0.013811814
+19049,"[104.7, 41.8]",,Manolo Gabbiadini,Right Wing,,Left Foot,,"[120.0, 33.8, 1.0]",True,,,Off T,Half Volley,Open Play,,,,0.0018744844
+19052,"[93.9, 32.8]",,Manolo Gabbiadini,Right Wing,,Left Foot,,"[96.2, 33.4]",,,,Blocked,Normal,Open Play,,,,0.0015422808
+19053,"[92.0, 36.8]",,Manolo Gabbiadini,Right Wing,,Left Foot,,"[120.0, 45.9, 1.0]",,,,Off T,Normal,Open Play,,,,0.0015072396
+23007,"[93.6, 18.9]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 40.4, 7.1]",True,,,Off T,Half Volley,Open Play,,,,0.0041277986
+23008,"[103.8, 37.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 37.3, 5.1]",True,,,Off T,Half Volley,Open Play,True,,,0.0045400155
+23009,"[91.9, 35.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[117.6, 39.2, 0.5]",,,,Saved,Normal,Open Play,,,,0.002213674
+23011,"[99.7, 28.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 48.6, 1.0]",,,,Off T,Normal,Open Play,,,,0.0036752545
+23012,"[99.9, 38.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 37.5, 0.2]",True,,,Goal,Normal,Open Play,,,,0.971403
+23014,"[106.2, 42.4]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[120.0, 30.7, 1.2]",True,,,Off T,Half Volley,Open Play,True,,,0.0023231758
+23015,"[108.5, 23.2]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 47.8, 0.6]",,,,Off T,Normal,Open Play,,,,0.018648412
+23019,"[103.1, 24.9]",,Dries Mertens,Left Wing,,Right Foot,,"[105.0, 26.8]",,,,Blocked,Normal,Open Play,,,,0.0011575144
+23022,"[95.9, 40.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.0, 40.8, 1.5]",True,,,Saved,Normal,Open Play,,,,0.0035646067
+23023,"[109.7, 59.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[110.8, 57.5]",,,,Blocked,Normal,Open Play,,,,0.0017242907
+23024,"[108.5, 27.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 41.6, 1.5]",,,,Goal,Normal,Open Play,True,,,0.9800046
+23026,"[96.1, 16.1]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[117.3, 39.8, 0.5]",,,,Saved,Normal,Open Play,,,,0.0019098496
+23028,"[97.6, 49.1]",,Dries Mertens,Left Wing,,Right Foot,,"[98.8, 48.8]",,,,Blocked,Normal,Open Play,,,,0.00083011703
+23031,"[96.8, 3.6]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 25.9, 0.9]",True,,,Off T,Normal,Open Play,,,,0.005069095
+26938,"[107.1, 46.5]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 43.0, 0.0]",,True,,Goal,Normal,Open Play,,,,0.98276734
+26940,"[94.7, 39.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[115.8, 38.0, 0.3]",,,,Saved,Normal,Open Play,True,,,0.005145517
+26943,"[100.5, 57.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 32.2, 0.2]",,,,Off T,Normal,Open Play,True,,,0.0067333905
+26945,"[94.2, 29.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[96.6, 30.5]",,,,Blocked,Normal,Open Play,,,,0.0021894742
+26947,"[112.1, 44.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[112.8, 44.1]",True,,,Blocked,Backheel,Open Play,True,,,0.002728407
+26948,"[112.6, 30.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 42.8, 1.8]",True,,,Goal,Normal,Open Play,True,,,0.990917
+26949,"[94.9, 46.6]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 36.1, 6.4]",True,,,Off T,Normal,Open Play,,,,0.002692536
+26950,"[105.0, 28.6]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[106.3, 29.6]",True,,,Blocked,Normal,Open Play,,,,0.0007398955
+26952,"[109.9, 49.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[111.2, 47.8]",,,,Blocked,Normal,Open Play,True,,,0.0017242907
+26954,"[94.4, 24.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 36.5, 2.0]",,,,Goal,Normal,Free Kick,,,,0.8527382
+26956,"[115.1, 43.6]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 45.8, 0.0]",True,,,Off T,Normal,Open Play,,,,0.013804332
+30883,"[88.4, 28.6]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[118.5, 37.0, 1.3]",,,,Saved,Normal,Open Play,,,,0.0023165904
+30884,"[91.7, 39.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[118.4, 37.0, 1.1]",,,,Saved,Normal,Free Kick,,,,0.0027989459
+30889,"[114.4, 43.2]",,Gonzalo Gerardo Higuaín,Center Forward,True,Head,,"[120.0, 45.4, 2.0]",,,,Off T,Normal,Open Play,True,,,0.010321131
+30890,"[106.1, 26.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.9, 0.0]",True,,,Goal,Normal,Open Play,,,,0.9763866
+30891,"[100.5, 43.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[101.8, 43.7]",,,,Blocked,Normal,Open Play,,,,0.0017302204
+30892,"[106.5, 55.8]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[110.4, 50.6]",,,,Blocked,Normal,Open Play,,,,0.0011153298
+30893,"[112.0, 38.2]",,Raúl Albiol i Tortajada,Right Center Back,,Head,,"[120.0, 36.6, 3.4]",,,,Off T,Normal,Open Play,,,,0.0059758215
+30897,"[106.2, 50.9]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 21.8, 0.0]",,,,Off T,Normal,Open Play,,,,0.0031091725
+30898,"[107.4, 62.0]",,Elseid Hysaj,Right Back,,Left Foot,,"[117.6, 44.4, 0.0]",,,,Saved,Normal,Open Play,True,,,0.0008728893
+30899,"[94.5, 49.5]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 45.3, 2.0]",True,,,Off T,Half Volley,Open Play,,,,0.0013373105
+30901,"[99.7, 38.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[115.4, 38.0, 0.4]",,,,Saved,Normal,Open Play,,,,0.0045034736
+30902,"[107.6, 33.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 42.3, 0.0]",,True,,Goal,Normal,Open Play,True,,,0.98589087
+30903,"[96.3, 21.4]",,Omar El Kaddouri,Left Wing,,Right Foot,,"[104.6, 27.1]",,,,Blocked,Normal,Free Kick,,,,0.0021894742
+34899,"[112.1, 54.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[118.3, 44.2, 0.0]",,,,Saved,Normal,Open Play,,,,0.002275012
+34901,"[97.4, 27.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[107.6, 34.3]",,,,Blocked,Normal,Open Play,True,,,0.0015936808
+34902,"[109.4, 48.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,True,"[115.9, 44.4, 0.2]",,,,Saved to Post,Normal,Open Play,True,True,,0.0024522569
+34903,"[99.0, 44.8]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 43.1, 7.4]",True,,,Off T,Volley,Open Play,True,,,0.0057430593
+34904,"[94.1, 49.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 38.4, 5.4]",,,,Off T,Half Volley,Open Play,,,,0.009010703
+34905,"[93.5, 40.8]",True,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 36.1, 0.4]",,,,Post,Normal,Open Play,,,,0.009389237
+34906,"[95.4, 33.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 32.2, 0.0]",,,,Off T,Normal,Open Play,,,,0.006568134
+34908,"[108.0, 29.7]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[110.4, 31.6]",,,,Blocked,Normal,Open Play,,,,0.0025076605
+34909,"[107.7, 36.9]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[113.5, 64.8]",True,,,Wayward,Half Volley,Open Play,,,,0.001722326
+34910,"[96.6, 39.1]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[114.5, 42.2, 1.3]",,,,Saved,Normal,Open Play,,,,0.002346692
+34911,"[109.2, 32.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 36.9, 2.3]",True,,,Goal,Normal,Open Play,True,,,0.9748657
+34912,"[108.6, 40.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 37.0, 4.3]",,,,Off T,Normal,Open Play,True,,,0.007821271
+34913,"[103.4, 24.9]",,Kalidou Koulibaly,Left Center Back,,Left Foot,,"[116.9, 36.5, 0.2]",,,,Saved,Normal,Open Play,,,,0.00087930367
+34914,"[103.8, 30.1]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 37.3, 5.8]",,,,Off T,Normal,Open Play,True,,,0.0028700652
+34915,"[97.3, 47.0]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 35.4, 0.1]",,,,Off T,Normal,Open Play,,,,0.0049872743
+34917,"[103.2, 53.5]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 34.8, 0.2]",,,,Off T,Normal,Open Play,,,,0.0035669007
+34918,"[105.7, 44.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 36.9, 6.2]",True,,,Off T,Normal,Open Play,,,,0.0077377823
+34922,"[99.5, 50.2]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[103.1, 48.3]",,,,Blocked,Normal,Open Play,,,,0.000616158
+39201,"[96.8, 41.9]",,David López Silva,Right Center Midfield,,Right Foot,,"[100.8, 41.3]",,,,Blocked,Normal,Open Play,,,,0.0026438434
+39203,"[100.2, 33.2]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 33.2, 1.6]",,,,Off T,Normal,Open Play,,,,0.0029666445
+39204,"[106.6, 41.1]",,Gonzalo Gerardo Higuaín,Center Forward,True,Head,,"[118.0, 42.7, 0.6]",,,,Saved,Normal,Open Play,True,,,0.0041724904
+39205,"[103.4, 31.4]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 45.2, 0.2]",True,,,Off T,Normal,Open Play,True,,,0.0038633929
+39207,"[99.6, 24.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 49.8, 6.8]",,,,Off T,Normal,Open Play,,,,0.0020291382
+39208,"[101.3, 22.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 32.1, 1.3]",,,,Off T,Half Volley,Open Play,,,,0.0027136172
+39209,"[101.8, 30.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.3, 37.9, 0.2]",,,,Saved,Normal,Open Play,,,,0.0022608615
+39210,"[104.9, 30.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[107.2, 32.1]",,,,Blocked,Normal,Open Play,,,,0.0012430288
+39212,"[110.5, 22.7]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[117.3, 36.3, 1.7]",,,,Saved,Normal,Open Play,,,,0.0022993018
+39213,"[107.0, 25.2]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[115.2, 36.5, 0.3]",True,,,Saved to Post,Normal,Open Play,,True,,0.0018421464
+39214,"[93.5, 48.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 36.8, 0.3]",,,,Goal,Normal,Open Play,,,,0.9619469
+39216,"[98.8, 41.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[117.1, 43.0, 0.4]",,,,Saved,Normal,Open Play,,,,0.0059190067
+39217,"[97.3, 26.9]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[99.9, 28.8]",,,,Blocked,Normal,Open Play,,,,0.001395408
+39220,"[101.0, 38.4]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[114.7, 38.8, 0.3]",,,,Saved,Normal,Open Play,,,,0.0014417706
+39222,"[98.6, 29.1]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 46.2, 3.7]",,,,Off T,Normal,Open Play,,,,0.0018525374
+39223,"[94.6, 49.3]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 44.6, 7.0]",,,,Off T,Normal,Open Play,True,,,0.0009732553
+39224,"[98.9, 35.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 44.0, 0.2]",True,,,Post,Normal,Open Play,True,,,0.056526337
+39225,"[108.3, 49.6]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[115.8, 43.5, 1.3]",True,,,Saved,Half Volley,Open Play,,,,0.0018941595
+39226,"[103.5, 53.5]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 45.1, 5.8]",,,,Off T,Normal,Open Play,,,,0.00097587984
+39227,"[100.5, 48.1]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[102.6, 47.4]",,,,Blocked,Normal,Open Play,,,,0.00079434813
+39228,"[109.0, 27.1]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 36.0, 0.2]",,,,Post,Normal,Open Play,,,,0.008478113
+39229,"[105.2, 26.5]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 43.4, 0.5]",,,,Goal,Normal,Open Play,,,,0.982383
+39230,"[94.3, 34.3]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[97.7, 34.5]",,,,Blocked,Normal,Open Play,,,,0.0017863009
+39231,"[94.1, 38.3]",,Dries Mertens,Left Wing,,Right Foot,,"[95.5, 38.4]",,,,Blocked,Normal,Open Play,,,,0.002785892
+42671,"[105.3, 54.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[107.5, 51.8]",True,,,Blocked,Normal,Open Play,,,,0.0015403185
+42672,"[100.2, 51.5]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[117.9, 39.8, 1.3]",,,,Saved,Normal,Open Play,,,,0.0014816448
+42674,"[111.8, 25.2]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 45.2, 0.8]",,,,Off T,Normal,Open Play,True,,,0.037139796
+42675,"[114.1, 55.3]",,Dries Mertens,Left Wing,,Right Foot,,"[115.1, 53.0, 0.3]",True,,,Saved,Normal,Open Play,,,,0.0023377945
+42678,"[106.6, 56.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 30.7, 0.5]",,,,Off T,Normal,Open Play,,,,0.0063173873
+42680,"[86.2, 39.7]",,Elseid Hysaj,Right Back,,Left Foot,,"[99.1, 42.5]",True,,,Wayward,Half Volley,Open Play,,,,0.002474701
+42681,"[97.4, 34.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 45.7, 4.7]",,,,Off T,Normal,Open Play,,,,0.0017095795
+42684,"[110.9, 23.4]",,Dries Mertens,Left Wing,,Right Foot,,"[119.0, 35.9, 0.2]",,,,Saved,Normal,Open Play,True,,,0.0037406073
+42685,"[105.2, 36.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[113.0, 40.1]",,,,Blocked,Normal,Open Play,True,,,0.002530046
+42687,"[107.7, 54.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 32.7, 0.2]",,,,Off T,Normal,Open Play,True,,,0.0031091725
+42689,"[106.2, 35.6]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[118.3, 36.5, 0.5]",True,,,Saved,Volley,Open Play,,,,0.001647648
+42690,"[99.5, 27.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[101.3, 28.7]",,,,Blocked,Normal,Open Play,True,,,0.0022483936
+42691,"[90.0, 35.9]",,Manolo Gabbiadini,Right Wing,,Left Foot,,"[92.7, 35.4]",,,,Blocked,Normal,Open Play,True,,,0.0011693733
+42693,"[94.4, 48.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[115.3, 43.9, 1.7]",,,,Saved,Normal,Open Play,,,,0.0007615939
+42694,"[112.9, 37.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 35.3, 0.6]",True,,,Off T,Volley,Open Play,True,,,0.009213073
+42695,"[92.7, 50.2]",,Manolo Gabbiadini,Right Wing,,Left Foot,True,"[119.2, 40.6, 0.4]",,,,Saved,Normal,Free Kick,,,,0.0020576075
+42696,"[94.5, 37.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[118.2, 43.1, 1.7]",,,,Saved,Normal,Open Play,True,,,0.0021041157
+46314,"[92.0, 37.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[103.5, 37.2]",,,,Blocked,Normal,Free Kick,,,,0.0034525504
+46316,"[107.3, 35.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 35.3, 0.7]",,,,Off T,Half Volley,Open Play,True,,,0.0052238787
+46319,"[111.8, 50.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[113.7, 48.1, 0.8]",,True,,Saved,Normal,Open Play,,,,0.0026421153
+46320,"[96.9, 36.1]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 34.8, 1.5]",,,,Off T,Normal,Open Play,,,,0.003003986
+46321,"[96.4, 48.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[98.0, 47.8]",,,,Blocked,Normal,Open Play,True,,,0.0010116136
+46322,"[109.4, 26.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 45.3, 0.2]",,,,Off T,Normal,Open Play,True,,,0.026413487
+46323,"[107.1, 32.5]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[108.2, 33.1]",True,,,Blocked,Backheel,Open Play,True,,,0.0014409744
+46324,"[97.2, 46.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[99.0, 46.3]",,,,Blocked,Normal,Open Play,True,,,0.0010116136
+46325,"[102.6, 35.5]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[107.7, 37.4]",,,,Blocked,Normal,Open Play,,,,0.0015426442
+46326,"[95.9, 55.7]",,Elseid Hysaj,Right Back,,Right Foot,,"[116.6, 41.7, 0.2]",,,,Saved,Normal,Open Play,True,,,0.002514881
+46327,"[110.3, 26.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 43.4, 0.3]",,True,,Goal,Normal,Open Play,,,,0.9911116
+46329,"[111.0, 44.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.8, 41.3, 0.5]",True,,,Saved,Overhead Kick,Open Play,,,,0.0038153855
+46330,"[107.2, 55.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 35.3, 3.3]",True,,,Off T,Lob,Open Play,True,,,0.0026551485
+46332,"[95.5, 29.1]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.6, 43.4, 1.2]",,,,Saved Off Target,Half Volley,Open Play,,,True,0.001769497
+46334,"[107.1, 39.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[110.1, 39.4]",True,,,Blocked,Normal,Open Play,,,,0.0031940283
+46336,"[113.9, 53.1]",,Elseid Hysaj,Right Back,,Right Foot,,"[119.0, 44.5, 1.9]",,True,,Saved,Normal,Open Play,True,,,0.0017295822
+50514,"[114.5, 48.1]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[117.9, 43.9, 0.5]",,True,,Saved,Normal,Open Play,True,,,0.0040081413
+50515,"[101.6, 46.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 34.1, 0.5]",True,,,Off T,Half Volley,Open Play,,,,0.0048302882
+50516,"[96.8, 30.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[98.9, 31.0]",,,,Blocked,Normal,Open Play,,,,0.0023020841
+50517,"[114.5, 55.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 49.6, 2.7]",True,,,Off T,Half Volley,Open Play,True,,,0.0037835715
+50518,"[92.5, 34.5]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 35.3, 2.9]",,,,Off T,Normal,Open Play,True,,,0.002038203
+50519,"[91.0, 21.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.1, 41.7, 1.3]",True,,,Saved,Normal,Open Play,,,,0.0023771499
+50520,"[94.3, 35.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[117.5, 40.1, 0.2]",,,,Saved,Normal,Open Play,True,,,0.002741874
+50521,"[88.7, 29.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 47.0, 1.3]",,,,Off T,Normal,Open Play,,,,0.00335587
+50522,"[113.9, 51.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[118.6, 44.9, 1.1]",True,,,Saved,Normal,Open Play,True,,,0.0022092822
+50523,"[89.6, 45.2]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 30.8, 0.5]",,,,Off T,Normal,Open Play,True,,,0.0053437073
+50525,"[90.6, 29.3]",,Jorge Luiz Frello Filho,Center Defensive Midfield,,Right Foot,,"[120.0, 49.4, 6.0]",,,,Off T,Normal,Open Play,,,,0.0015619664
+50526,"[103.8, 39.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 38.0, 0.2]",,,,Goal,Normal,Open Play,,,,0.96253335
+50528,"[95.7, 39.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 45.1, 0.5]",,,,Off T,Normal,Open Play,True,,,0.0038625048
+50529,"[87.4, 39.6]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 31.2, 5.3]",,,,Off T,Normal,Open Play,,,,0.0025163947
+50530,"[115.5, 38.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 40.3, 0.3]",True,,,Goal,Normal,Open Play,True,,,0.9828683
+50531,"[96.2, 27.8]",,Jorge Luiz Frello Filho,Center Defensive Midfield,,Right Foot,,"[118.0, 38.5, 0.3]",,,,Saved,Normal,Open Play,,,,0.0024300735
+50532,"[110.3, 47.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[112.1, 46.0, 0.5]",True,,,Saved,Normal,Open Play,,,,0.002728407
+50533,"[106.3, 39.1]",,Vlad Iulian Chiricheș,Left Center Back,True,Head,,"[109.6, 36.8]",,,,Wayward,Normal,Open Play,True,,,0.0025121397
+50534,"[110.7, 24.8]",True,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[117.4, 80.0]",True,,,Wayward,Half Volley,Open Play,True,,,0.004718112
+50536,"[107.2, 49.3]",,Omar El Kaddouri,Right Wing,,Right Foot,,"[120.0, 31.1, 0.2]",,,,Off T,Normal,Open Play,,,,0.0031091725
+50537,"[111.3, 45.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[115.9, 42.9, 0.2]",,,,Saved,Normal,Open Play,,,,0.009763021
+50538,"[110.6, 41.4]",,Vlad Iulian Chiricheș,Left Center Back,True,Head,,"[111.1, 40.5]",,,,Wayward,Normal,Open Play,True,,,0.0042016013
+50539,"[116.1, 50.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.5, 49.9, 0.3]",True,,,Saved,Normal,Open Play,,,,0.002728407
+54793,"[105.9, 47.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.8, 1.3]",,,,Goal,Normal,Open Play,True,,,0.9849716
+54794,"[109.2, 48.6]",True,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 59.9]",True,,,Wayward,Half Volley,Open Play,,,,0.007759832
+54795,"[102.4, 23.9]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 33.8, 6.7]",True,,,Off T,Normal,Open Play,,,,0.0010276928
+54796,"[104.7, 19.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[106.8, 22.8]",True,,,Blocked,Normal,Open Play,,,,0.0010902097
+54800,"[101.4, 41.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[102.8, 41.6]",,,,Blocked,Normal,Open Play,True,,,0.0026537522
+54803,"[81.6, 39.9]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 43.3, 7.5]",,,,Off T,Normal,Free Kick,,,,0.001971568
+54804,"[112.1, 33.0]",,Gonzalo Gerardo Higuaín,Center Forward,True,Head,,"[120.0, 32.2, 4.7]",,,,Off T,Normal,Open Play,True,,,0.0038630352
+54806,"[110.0, 30.3]",,Marek Hamšík,Left Center Midfield,,Head,,"[116.9, 35.3, 1.1]",,,,Saved,Normal,Open Play,,,,0.0020994602
+54807,"[93.8, 46.0]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 41.6, 5.2]",,,,Off T,Normal,Open Play,,,,0.004555852
+54808,"[106.0, 49.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.3, 1.1]",,True,,Goal,Normal,Open Play,,,,0.9825848
+54811,"[107.9, 23.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[108.4, 24.3]",,,,Blocked,Normal,Open Play,,,,0.001942303
+54814,"[103.4, 30.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[114.8, 38.8, 0.8]",,,,Saved,Normal,Open Play,True,,,0.0016063788
+59185,"[88.1, 34.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 34.6, 0.8]",,,,Off T,Normal,Open Play,,,,0.0044603986
+59186,"[108.8, 53.1]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[117.5, 43.7, 0.5]",,,,Saved,Normal,Open Play,,,,0.0025364622
+59190,"[112.1, 34.8]",,Lorenzo Insigne,Left Wing,,Head,,"[118.7, 36.9, 2.1]",,,,Saved,Normal,Open Play,,,,0.0026943805
+59191,"[100.0, 40.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[104.1, 40.6]",,,,Blocked,Normal,Open Play,,,,0.005260795
+59192,"[105.9, 50.9]",,José María Callejón Bueno,Right Wing,,Left Foot,True,"[118.9, 44.0, 0.9]",True,,,Saved to Post,Volley,Open Play,,True,,0.0006239236
+59193,"[105.4, 39.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.4, 6.4]",True,,,Off T,Normal,Open Play,,,,0.0067247283
+59194,"[101.3, 30.0]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 45.5, 0.5]",,,,Off T,Normal,Open Play,,,,0.003676912
+59197,"[100.8, 21.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[106.1, 27.5]",,,,Blocked,Normal,Open Play,,,,0.001466679
+59198,"[115.1, 37.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[116.5, 37.7, 1.7]",,,,Saved,Normal,Open Play,,,,0.0034912475
+59203,"[92.0, 28.3]",,Dries Mertens,Right Wing,,Right Foot,,"[117.8, 35.9, 0.5]",,,,Saved,Normal,Open Play,,,,0.0015074185
+59205,"[104.3, 30.4]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[105.7, 31.3]",,,,Blocked,Normal,Open Play,True,,,0.0009164045
+59206,"[104.0, 56.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 44.2, 6.3]",,,,Off T,Normal,Open Play,,,,0.0011127987
+59207,"[111.4, 49.7]",True,Dries Mertens,Right Wing,,Right Foot,,"[116.8, 0.1]",True,,,Wayward,Half Volley,Open Play,,,,0.0024343692
+59208,"[107.7, 29.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[120.0, 35.0, 0.5]",,,,Off T,Normal,Open Play,,,,0.005247922
+59209,"[111.9, 35.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.1, 0.7]",True,,,Goal,Volley,Open Play,True,,,0.98908585
+59210,"[105.5, 40.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 41.8, 0.9]",,,,Goal,Half Volley,Open Play,True,,,0.98723376
+63032,"[90.9, 54.7]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 27.2, 0.9]",,,,Off T,Half Volley,Open Play,,,,0.004634031
+63035,"[113.4, 26.9]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 36.0, 4.0]",,True,,Off T,Normal,Open Play,,,,0.0030985656
+63037,"[110.8, 24.2]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 35.2, 4.4]",True,,,Off T,Normal,Open Play,True,,,0.0030627777
+63038,"[92.8, 26.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[96.4, 28.4]",,,,Blocked,Normal,Open Play,,,,0.0021894742
+63039,"[111.7, 40.5]",,José María Callejón Bueno,Right Wing,True,Head,,"[120.0, 32.8, 6.6]",,,,Off T,Normal,Open Play,True,,,0.002309617
+63040,"[104.7, 27.5]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 44.4, 0.2]",,,,Off T,Normal,Open Play,True,,,0.0036683835
+63041,"[95.1, 24.1]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 34.9, 1.5]",,,,Off T,Normal,Free Kick,,,,0.0048780255
+63043,"[103.0, 30.5]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[115.5, 35.5, 1.0]",True,,,Saved,Normal,Open Play,True,,,0.0006341469
+63044,"[112.1, 32.5]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[113.5, 33.4, 0.7]",True,,,Saved,Half Volley,Open Play,True,,,0.004393963
+63045,"[112.1, 18.9]",,Dries Mertens,Left Wing,,Right Foot,,"[118.9, 36.1, 2.0]",,,,Saved,Normal,Open Play,,,,0.002581502
+63046,"[106.6, 21.9]",,Dries Mertens,Left Wing,,Right Foot,,"[118.3, 36.7, 1.1]",,,,Saved,Normal,Open Play,,,,0.001863361
+63047,"[115.0, 34.9]",,Omar El Kaddouri,Right Wing,,Left Foot,,"[120.0, 35.0, 0.5]",True,,,Off T,Half Volley,Open Play,True,,,0.0053488417
+66637,"[103.7, 31.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[104.5, 31.8]",,,,Blocked,Normal,Open Play,,,,0.0014196809
+66639,"[88.1, 31.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[118.2, 36.7, 0.5]",,,,Saved,Normal,Open Play,,,,0.0025711702
+66640,"[109.0, 41.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[117.1, 41.8, 0.8]",True,,,Saved,Normal,Open Play,,,,0.0049363715
+66644,"[107.7, 23.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.2, 4.1]",,,,Off T,Normal,Open Play,,,,0.007774104
+66645,"[100.3, 37.9]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 43.0, 4.8]",True,,,Off T,Normal,Open Play,,,,0.00424307
+66648,"[104.2, 49.8]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 43.7, 5.9]",True,,,Off T,Half Volley,Open Play,,,,0.001756187
+66652,"[107.3, 53.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[118.3, 43.5, 1.4]",,,,Saved,Normal,Open Play,,,,0.0016738861
+66653,"[108.0, 40.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 43.1, 2.4]",,,,Goal,Normal,Penalty,,,,0.9479911
+66655,"[114.1, 27.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 38.3, 4.2]",,,,Off T,Normal,Open Play,,,,0.007832172
+66657,"[101.3, 30.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[103.2, 31.5]",,,,Blocked,Normal,Open Play,True,,,0.0012909165
+66658,"[115.5, 36.6]",,Gonzalo Gerardo Higuaín,Center Forward,True,Head,,"[120.0, 37.3, 1.5]",,,,Goal,Normal,Open Play,True,,,0.9833747
+66659,"[101.3, 26.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 45.3, 2.7]",,,,Off T,Half Volley,Open Play,,,,0.0024840615
+66662,"[105.2, 45.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 36.4, 0.2]",,True,,Goal,Normal,Open Play,True,,,0.9586791
+66666,"[108.0, 40.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 37.0, 4.5]",,True,,Off T,Normal,Penalty,,,,0.015060982
+70385,"[89.3, 34.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[117.1, 37.8, 1.3]",True,,,Saved,Half Volley,Open Play,,,,0.0033052736
+70386,"[111.8, 49.7]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[114.7, 45.6, 0.2]",True,,,Saved,Normal,Open Play,,,,0.002098233
+70387,"[103.4, 47.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 48.0, 2.4]",True,,,Off T,Normal,Open Play,,,,0.0031231914
+70389,"[88.9, 40.2]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[115.3, 41.8, 0.2]",,,,Saved,Normal,Open Play,True,,,0.0023897374
+70390,"[100.9, 36.1]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 48.9, 2.0]",True,,,Off T,Half Volley,Open Play,,,,0.0024006995
+70391,"[99.5, 28.1]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.7, 1.5]",True,,,Goal,Half Volley,Open Play,,,,0.94486266
+70393,"[108.7, 22.9]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 34.6, 5.2]",,True,,Off T,Half Volley,Open Play,True,,,0.0027381906
+70395,"[110.8, 57.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.6, 44.5, 0.4]",True,,,Saved,Normal,Open Play,,,,0.002728407
+70399,"[106.1, 49.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 38.1, 3.9]",,,,Off T,Normal,Open Play,,,,0.006252689
+70400,"[115.8, 28.2]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 43.7, 0.2]",True,,,Goal,Normal,Open Play,,,,0.991814
+70402,"[85.3, 34.8]",True,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 37.0, 3.0]",,,,Post,Normal,Free Kick,,,,0.005699456
+70403,"[116.3, 44.1]",,Kalidou Koulibaly,Left Center Back,,Head,,"[120.0, 45.2, 3.5]",,,True,Off T,Normal,Open Play,,,,0.002563219
+70405,"[100.1, 55.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[115.7, 41.5, 0.4]",,,,Saved,Normal,Open Play,,,,0.0042977105
+70406,"[102.0, 48.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[103.0, 47.9]",True,,,Blocked,Half Volley,Open Play,True,,,0.0010971632
+70407,"[104.9, 59.6]",,Elseid Hysaj,Right Back,,Left Foot,,"[120.0, 31.5, 4.2]",,,,Off T,Normal,Open Play,True,,,0.0012858039
+70408,"[106.6, 54.6]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 35.0, 0.2]",,,,Off T,Normal,Open Play,,,,0.0045126923
+70410,"[91.1, 30.7]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 43.9, 6.8]",,,,Off T,Normal,Open Play,,,,0.0027922355
+74307,"[95.6, 43.8]",,Dries Mertens,Left Wing,,Right Foot,,"[106.1, 43.6]",,,,Blocked,Normal,Free Kick,,,,0.0012216322
+74308,"[103.9, 22.3]",,Dries Mertens,Left Wing,,Right Foot,,"[107.6, 26.4]",,,,Blocked,Normal,Open Play,True,,,0.0011821628
+74309,"[102.8, 32.1]",,Allan Marques Loureiro,Right Center Midfield,,Left Foot,,"[106.3, 33.6]",,,,Blocked,Normal,Open Play,True,,,0.00073296594
+74310,"[118.3, 44.3]",,Raúl Albiol i Tortajada,Right Center Back,,Left Foot,,"[120.0, 43.1, 2.3]",True,,,Goal,Volley,Open Play,True,,,0.9814337
+74311,"[92.3, 38.7]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 42.0, 7.7]",,,,Off T,Half Volley,Open Play,True,,,0.0033932934
+74312,"[104.5, 31.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[115.2, 39.8]",,,,Blocked,Normal,Open Play,True,,,0.0020541942
+74313,"[97.0, 54.0]",,Elseid Hysaj,Right Back,,Left Foot,,"[120.0, 30.1, 6.3]",,,,Off T,Half Volley,Open Play,,,,0.0025266309
+74314,"[97.1, 35.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[99.4, 35.6]",,,,Blocked,Normal,Open Play,,,,0.0025656864
+74315,"[108.1, 40.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 38.8, 0.9]",,,,Goal,Normal,Penalty,,,,0.9926052
+74317,"[96.5, 31.6]",,Dries Mertens,Left Wing,,Right Foot,,"[117.1, 36.8, 0.8]",,,,Saved,Normal,Open Play,,,,0.0037605085
+74320,"[103.5, 49.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[105.6, 48.1]",,,,Blocked,Half Volley,Open Play,True,,,0.0011273576
+74321,"[94.4, 26.9]",,Ivan Strinić,Left Back,,Left Foot,,"[120.0, 46.9, 3.6]",True,,,Off T,Half Volley,Open Play,,,,0.0011036794
+74322,"[96.3, 30.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 36.5, 6.0]",,,,Off T,Normal,Open Play,,,,0.0050212475
+74324,"[99.0, 33.5]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 36.7, 0.2]",,,,Goal,Normal,Open Play,,,,0.9230391
+74325,"[108.3, 41.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 39.3, 0.2]",,,,Goal,Normal,Open Play,,,,0.9860794
+74327,"[103.8, 36.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[106.6, 37.8]",True,,,Blocked,Normal,Open Play,,,,0.002078349
+74328,"[109.1, 28.9]",,Dries Mertens,Left Wing,,Right Foot,,"[111.0, 31.3, 1.0]",,,,Saved,Lob,Open Play,,,,0.0027010313
+74330,"[95.4, 47.7]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 36.7, 2.1]",,,,Goal,Normal,Open Play,,,,0.9239087
+74332,"[104.6, 27.0]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 35.0, 0.2]",,,,Off T,Normal,Open Play,,,,0.003041928
+74333,"[92.0, 30.1]",,Jorge Luiz Frello Filho,Center Defensive Midfield,,Right Foot,,"[118.9, 40.2, 2.1]",,,,Saved,Normal,Open Play,,,,0.0019932417
+74334,"[102.8, 52.0]",,Elseid Hysaj,Right Back,,Left Foot,,"[115.5, 40.9, 0.2]",,,,Saved,Normal,Open Play,,,,0.0012338074
+74336,"[109.0, 53.9]",,Omar El Kaddouri,Right Wing,,Right Foot,,"[110.6, 52.4]",,,,Blocked,Normal,Open Play,True,,,0.0017242907
+74337,"[94.4, 40.1]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[98.0, 40.2]",True,,,Blocked,Normal,Open Play,,,,0.004386341
+74338,"[97.5, 46.1]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 34.4, 0.9]",,,,Off T,Normal,Open Play,,,,0.008125089
+78263,"[106.1, 53.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 46.1, 6.2]",,,,Off T,Normal,Open Play,True,,,0.0015777602
+78264,"[97.5, 22.9]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[116.4, 36.7, 0.9]",,,,Saved,Normal,Open Play,,,,0.0023886464
+78265,"[84.7, 22.6]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[117.0, 36.8, 0.8]",,,,Saved,Normal,Open Play,,,,0.0022683362
+78266,"[117.2, 35.7]",,José María Callejón Bueno,Right Wing,,Head,,"[120.0, 43.0, 1.3]",,True,,Goal,Normal,Open Play,,,,0.98511654
+78267,"[100.5, 21.8]",,Faouzi Ghoulam,Left Back,,Right Foot,,"[116.8, 37.6, 2.0]",,,,Saved,Half Volley,Open Play,,,,0.0013521629
+78272,"[91.8, 21.3]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[96.5, 24.6]",,,,Blocked,Normal,Open Play,,,,0.0015936808
+78274,"[101.3, 28.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 46.3, 1.3]",,,,Off T,Normal,Open Play,,,,0.003450589
+78275,"[115.0, 36.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.4, 0.5]",True,,,Goal,Normal,Open Play,,,,0.9902435
+78276,"[99.8, 33.4]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[108.5, 35.5]",True,,,Blocked,Volley,Open Play,,,,0.0016823666
+78277,"[102.0, 23.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[104.2, 25.4]",,,,Blocked,Normal,Open Play,,,,0.0011575144
+78278,"[107.2, 57.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 27.6, 0.7]",,,,Off T,Half Volley,Open Play,,,,0.0056445524
+78279,"[101.9, 40.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 34.9, 0.2]",,,,Off T,Normal,Open Play,,,,0.0046226108
+78281,"[62.9, 35.5]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[115.2, 31.9]",,,,Wayward,Normal,Open Play,,,,0.0014516541
+78282,"[102.4, 20.9]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 34.6, 3.9]",,,,Off T,Volley,Open Play,,,,0.0015317812
+78283,"[109.2, 45.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[110.6, 44.4]",True,,,Blocked,Normal,Open Play,,,,0.002261736
+78284,"[106.8, 48.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[109.3, 46.7]",True,,,Blocked,Normal,Open Play,,,,0.001388998
+78286,"[108.7, 23.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.3, 4.0]",,,,Off T,Normal,Open Play,,,,0.013739374
+78287,"[91.9, 40.7]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[93.5, 40.8]",,,,Blocked,Half Volley,Open Play,True,,,0.0026291283
+78288,"[98.3, 48.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 32.5, 0.3]",,,,Off T,Normal,Open Play,,,,0.009416427
+78290,"[106.3, 51.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 43.2, 0.5]",,,,Goal,Normal,Open Play,,,,0.98427343
+82349,"[107.9, 36.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.0, 5.3]",,,,Off T,Half Volley,Open Play,True,,,0.005010586
+82350,"[103.9, 47.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 38.9, 1.2]",,True,,Goal,Normal,Open Play,,,,0.9652551
+82352,"[83.6, 30.0]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 36.3, 4.1]",,,,Off T,Normal,Free Kick,,,,0.0024802776
+82353,"[105.4, 54.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[107.6, 52.9]",,,,Blocked,Half Volley,Open Play,,,,0.0016701729
+82354,"[108.0, 40.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 37.0, 0.5]",,,,Goal,Normal,Penalty,,,,0.99204165
+82355,"[119.3, 62.4]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 54.2, 2.4]",,True,,Off T,Normal,Open Play,,,,0.00919262
+82356,"[111.3, 55.1]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[118.6, 43.9, 0.2]",True,,,Saved,Normal,Open Play,,,,0.0023471934
+82359,"[85.0, 28.5]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 42.6, 5.3]",,,,Off T,Normal,Free Kick,,,,0.004102654
+82360,"[101.2, 53.7]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[108.2, 47.1]",,,,Blocked,Normal,Open Play,,,,0.0005783841
+82361,"[107.1, 48.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.9, 43.3, 0.7]",True,,,Saved,Half Volley,Open Play,,,,0.0028462517
+82364,"[100.8, 34.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 45.4, 5.0]",True,,,Off T,Normal,Open Play,,,,0.0013231415
+82365,"[110.7, 32.2]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 44.0, 0.2]",,True,,Goal,Normal,Open Play,True,,,0.7619192
+82367,"[100.3, 36.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[101.2, 36.6]",,,,Blocked,Normal,Open Play,,,,0.002150376
+82368,"[107.7, 20.7]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 43.2, 4.2]",,,,Off T,Normal,Open Play,,,,0.0077430042
+82369,"[99.9, 43.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 35.5, 3.5]",,,,Off T,Normal,Open Play,,,,0.0046293996
+82371,"[105.2, 21.8]",,Ivan Strinić,Left Back,,Left Foot,,"[117.4, 36.9, 0.9]",,,,Saved,Normal,Open Play,,,,0.001794188
+82372,"[105.7, 33.7]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 51.6, 4.9]",True,,,Off T,Volley,Open Play,True,,,0.0033039702
+82373,"[112.7, 49.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.2, 4.2]",,True,,Off T,Normal,Open Play,,,,0.011084082
+82374,"[104.4, 24.8]",,Dries Mertens,Left Wing,,Left Foot,,"[120.0, 43.9, 0.2]",,,,Goal,Normal,Open Play,True,,,0.95766026
+82375,"[109.4, 49.6]",,Omar El Kaddouri,Right Wing,,Right Foot,,"[119.1, 43.7, 0.2]",,,,Saved,Normal,Open Play,,,,0.0025364622
+82376,"[103.5, 41.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[106.1, 41.4]",,,,Blocked,Volley,Open Play,True,,,0.0024304653
+82378,"[105.7, 30.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[117.3, 38.1, 0.2]",,,,Saved,Normal,Open Play,True,,,0.003559636
+82379,"[104.5, 34.9]",,Omar El Kaddouri,Right Wing,,Right Foot,,"[120.0, 50.3, 4.0]",,,,Off T,Half Volley,Open Play,,,,0.00094100524
+86272,"[101.6, 43.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 44.9, 7.6]",True,,,Off T,Normal,Open Play,,,,0.0015244103
+86273,"[65.9, 45.5]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 50.9, 0.6]",,,,Off T,Half Volley,Open Play,,,,0.002042271
+86274,"[110.3, 36.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 31.9, 2.2]",True,,,Off T,Volley,Open Play,True,,,0.006823742
+86275,"[108.5, 49.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 43.8, 7.5]",True,,,Off T,Half Volley,Open Play,,,,0.0042385915
+86276,"[107.7, 38.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[117.3, 41.0, 1.0]",True,,,Saved,Normal,Open Play,,,,0.0020592452
+86277,"[113.1, 49.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 35.0, 2.4]",True,,,Off T,Half Volley,Open Play,True,,,0.0060079684
+86278,"[89.2, 25.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 45.5, 7.2]",,,,Off T,Normal,Open Play,,,,0.0018525374
+86279,"[111.7, 54.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[112.2, 54.0]",,True,,Blocked,Normal,Open Play,True,,,0.0029581222
+86280,"[105.1, 26.6]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 36.9, 4.8]",True,,,Off T,Normal,Open Play,,,,0.003515844
+86281,"[94.7, 47.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.7, 35.6]",True,,,Wayward,Lob,Open Play,,,,0.0033886961
+86283,"[110.7, 39.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[120.0, 43.3, 0.7]",,,,Goal,Normal,Open Play,,,,0.9895504
+86284,"[95.8, 36.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[99.2, 36.4]",True,,,Blocked,Normal,Open Play,,,,0.0015723904
+86285,"[98.3, 34.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 36.9, 1.7]",,,,Goal,Normal,Free Kick,,,,0.95317596
+86286,"[107.3, 51.2]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[108.1, 50.7]",,,,Blocked,Normal,Open Play,,,,0.0011153298
+86289,"[91.8, 36.7]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[95.4, 37.3]",,,,Blocked,Normal,Open Play,,,,0.0027385158
+86290,"[111.3, 38.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[113.5, 38.8, 0.2]",True,,,Saved,Normal,Open Play,,,,0.0062583443
+86292,"[93.3, 38.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 44.7, 4.7]",,,,Off T,Normal,Open Play,,,,0.0017095795
+86293,"[93.4, 40.9]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 45.0, 1.6]",True,,,Off T,Half Volley,Open Play,,,,0.0019230354
+86295,"[115.7, 44.9]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 42.4, 1.6]",True,,True,Goal,Half Volley,Open Play,,,,0.9788488
+86298,"[111.9, 53.6]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 43.4, 0.2]",True,,,Goal,Half Volley,Open Play,,,,0.9811999
+90383,"[103.2, 25.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[114.7, 35.4, 0.2]",,,,Saved,Normal,Open Play,,,,0.0013900872
+90385,"[114.8, 33.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[117.9, 36.9, 0.5]",True,,,Saved,Normal,Open Play,,,,0.0072106314
+90386,"[115.7, 34.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Other,,"[120.0, 43.2, 0.5]",,,,Goal,Normal,Open Play,,,,0.9928946
+90387,"[91.7, 38.7]",,David López Silva,Right Center Midfield,,Right Foot,,"[120.0, 49.1, 5.4]",True,,,Off T,Half Volley,Open Play,,,,0.0010593019
+90388,"[100.9, 42.1]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 36.7, 1.4]",True,,,Goal,Lob,Open Play,,,,0.9008135
+90391,"[110.5, 21.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 34.9, 5.4]",True,,,Off T,Half Volley,Open Play,True,,,0.0032688568
+90392,"[55.4, 11.0]",True,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.5, 80.0]",,,,Wayward,Normal,Open Play,,,,0.0014515505
+90395,"[99.0, 28.4]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 44.7, 4.5]",,,,Off T,Normal,Free Kick,,,,0.0020291382
+90397,"[87.9, 37.3]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 31.7, 0.2]",,,,Off T,Normal,Open Play,,,,0.0047061094
+90398,"[106.0, 47.5]",,David López Silva,Right Center Midfield,,Right Foot,,"[110.8, 45.6]",True,,,Blocked,Normal,Open Play,,,,0.0010285705
+90400,"[67.7, 77.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[113.0, 41.5, 1.2]",True,,,Saved,Normal,Open Play,,,,0.001757008
+93937,"[111.3, 25.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[118.1, 36.5, 2.0]",,,,Saved,Normal,Open Play,,,,0.0024541367
+93938,"[92.1, 35.6]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 43.8, 5.2]",,,,Off T,Normal,Open Play,,,,0.0016159675
+93939,"[113.2, 51.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 44.3, 2.4]",,,,Off T,Normal,Open Play,True,,,0.010716265
+93940,"[101.6, 48.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.4, 41.1, 0.5]",True,,,Saved,Half Volley,Open Play,,,,0.0023077696
+93941,"[93.8, 28.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 47.7, 7.8]",,,,Off T,Normal,Open Play,,,,0.0018525374
+93942,"[90.7, 36.2]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[95.2, 36.6]",,,,Blocked,Normal,Open Play,,,,0.00158197
+93943,"[114.2, 30.1]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[115.1, 31.5]",,,,Blocked,Half Volley,Open Play,True,,,0.004191415
+93944,"[109.2, 44.8]",,José María Callejón Bueno,Right Wing,,Head,,"[120.0, 37.9, 5.9]",,,,Off T,Normal,Open Play,,,,0.005385094
+93945,"[111.0, 39.9]",,José María Callejón Bueno,Right Wing,True,Head,,"[120.0, 33.2, 0.5]",,,,Off T,Normal,Open Play,True,,,0.00770445
+93947,"[103.0, 32.1]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[120.0, 44.8, 0.2]",,,,Off T,Normal,Open Play,,,,0.0027544706
+93948,"[110.0, 42.1]",,José María Callejón Bueno,Right Wing,,Head,,"[120.0, 33.6, 2.7]",,,,Off T,Normal,Open Play,,,,0.0024334951
+93949,"[113.1, 54.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 45.4, 3.0]",True,,,Off T,Volley,Open Play,,,,0.002486868
+93950,"[113.9, 41.4]",,Kalidou Koulibaly,Left Center Back,,Other,,"[120.0, 41.5, 4.0]",,,,Off T,Normal,Open Play,,,,0.0065625827
+93951,"[101.0, 48.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[118.7, 41.2, 0.8]",,,,Saved,Normal,Open Play,,,,0.0025253128
+93952,"[108.7, 49.2]",,Raúl Albiol i Tortajada,Right Center Back,,Left Foot,,"[110.1, 47.9]",True,,,Blocked,Volley,Open Play,,,,0.0018052222
+93953,"[88.5, 34.4]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[117.1, 40.0, 1.2]",True,,,Saved,Half Volley,Open Play,,,,0.0016745738
+93954,"[104.4, 27.6]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 35.4, 2.0]",True,,,Off T,Normal,Open Play,True,,,0.0022010566
+93956,"[108.0, 40.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.3, 0.8]",,,,Goal,Normal,Penalty,,,,0.99311936
+93957,"[100.6, 22.7]",,Lorenzo Insigne,Right Wing,,Right Foot,,"[120.0, 44.1, 4.7]",,,,Off T,Normal,Open Play,True,,,0.0013969596
+93958,"[102.3, 38.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[113.0, 39.2, 1.4]",True,,,Saved,Lob,Open Play,True,,,0.0015418497
+93959,"[101.8, 24.8]",,Lorenzo Insigne,Right Wing,,Right Foot,,"[118.3, 36.6, 0.2]",,,,Saved,Normal,Open Play,True,,,0.0009357874
+93961,"[111.9, 27.7]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 47.2, 4.2]",,,,Off T,Normal,Open Play,True,,,0.006687084
+98460,"[98.2, 44.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[101.6, 44.6]",,,,Blocked,Normal,Open Play,True,,,0.00083011703
+98466,"[95.0, 44.0]",True,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 68.4]",True,,,Wayward,Normal,Open Play,True,,,0.0018195179
+98469,"[118.1, 26.8]",,Lorenzo Insigne,Left Wing,,Right Foot,True,"[119.1, 35.2, 0.4]",,,,Saved,Normal,Open Play,True,,,0.0037406073
+98470,"[99.1, 13.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[111.7, 80.0]",,,,Wayward,Normal,Open Play,,,,0.001687165
+98473,"[101.9, 39.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[103.1, 44.9]",True,,,Wayward,Half Volley,Open Play,,,,0.0013479263
+98474,"[87.8, 46.7]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 36.0, 3.8]",,,,Off T,Normal,Open Play,,,,0.0027088493
+98475,"[93.5, 47.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 27.8, 0.2]",,,,Off T,Normal,Open Play,,,,0.009416427
+98478,"[94.9, 42.1]",,Manolo Gabbiadini,Right Center Forward,,Right Foot,,"[120.0, 33.2, 0.3]",,,,Off T,Normal,Open Play,True,,,0.005328214
+102227,"[99.5, 48.6]",,Jorge Luiz Frello Filho,Center Defensive Midfield,,Right Foot,,"[120.0, 33.9, 3.1]",True,,,Off T,Normal,Open Play,,,,0.002792574
+102228,"[90.0, 31.7]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 35.4, 6.0]",True,,,Off T,Normal,Open Play,,,,0.001936621
+102229,"[102.6, 24.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.3, 4.1]",True,,,Off T,Normal,Open Play,,,,0.004689154
+102230,"[111.6, 52.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[112.1, 51.5]",True,,,Blocked,Normal,Open Play,,,,0.002728407
+102231,"[93.1, 37.7]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 46.3, 5.3]",True,,,Off T,Normal,Open Play,True,,,0.0016898087
+102232,"[111.4, 32.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[112.1, 33.0]",,,,Blocked,Half Volley,Open Play,,,,0.0035381396
+102233,"[102.7, 23.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 46.0, 1.3]",True,,,Off T,Normal,Open Play,,,,0.0034107522
+102234,"[98.8, 47.9]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[115.8, 40.7, 0.3]",,,,Saved,Normal,Open Play,,,,0.0020576075
+102235,"[112.4, 35.2]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 35.5, 0.2]",True,,,Off T,Normal,Open Play,,,,0.006650075
+102236,"[102.7, 34.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[103.6, 34.5]",,,,Blocked,Normal,Open Play,,,,0.0014222397
+102237,"[92.5, 18.8]",,Lorenzo Insigne,Left Wing,,Right Foot,True,"[120.0, 43.4, 0.2]",,,,Goal,Normal,Open Play,,,,0.9218593
+102240,"[95.0, 54.3]",,Elseid Hysaj,Right Back,,Left Foot,,"[120.0, 35.2, 5.3]",,,,Off T,Normal,Open Play,,,,0.0025266309
+102241,"[103.0, 55.2]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[104.3, 54.1]",,,,Blocked,Normal,Open Play,,,,0.0006233934
+102242,"[99.2, 27.7]",,Dries Mertens,Right Wing,,Right Foot,,"[107.7, 31.4]",,,,Blocked,Normal,Free Kick,,,,0.001548012
+102243,"[108.8, 47.3]",,Dries Mertens,Right Wing,,Right Foot,,"[120.0, 36.1, 0.5]",True,,,Post,Half Volley,Open Play,,,,0.0050550844
+102244,"[109.5, 36.3]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Left Foot,,"[120.0, 35.6, 0.7]",True,,,Off T,Volley,Open Play,,,,0.00525095
+102245,"[106.6, 55.1]",,Dries Mertens,Right Midfield,,Right Foot,,"[108.2, 53.5]",,,,Blocked,Normal,Open Play,,,,0.001506115
+102247,"[106.4, 32.3]",,Lorenzo Insigne,Left Midfield,,Right Foot,,"[120.0, 49.7, 5.0]",True,,,Off T,Half Volley,Open Play,,,,0.0034254864
+102250,"[111.6, 46.6]",,Omar El Kaddouri,Left Midfield,,Right Foot,,"[117.2, 43.3, 1.6]",True,,,Saved,Half Volley,Open Play,,,,0.0042775464
+102251,"[102.1, 32.0]",,Gonzalo Gerardo Higuaín,Left Center Forward,,Right Foot,,"[118.2, 37.7, 0.2]",,,,Saved,Normal,Open Play,,,,0.0014598228
+106630,"[93.8, 49.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 39.6, 0.5]",True,,,Goal,Normal,Open Play,,,,0.9647302
+106635,"[108.8, 44.4]",,Marek Hamšík,Left Center Midfield,True,Head,,"[116.7, 42.1, 1.8]",,True,,Saved,Normal,Open Play,True,,,0.003474395
+106639,"[106.3, 49.0]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[114.5, 43.4, 0.6]",,True,,Saved,Normal,Open Play,True,,,0.0013738517
+106640,"[108.1, 40.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[112.4, 39.2, 1.3]",True,,,Saved,Normal,Open Play,,,,0.0064093424
+106642,"[95.6, 26.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[106.1, 32.8]",,,,Blocked,Normal,Open Play,True,,,0.0015936808
+106646,"[109.1, 27.4]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[118.4, 35.1, 1.3]",,,,Saved,Normal,Open Play,True,,,0.0020485998
+110721,"[110.2, 37.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.7, 0.1]",True,,,Goal,Normal,Open Play,,,,0.9890026
+110722,"[94.4, 32.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[105.6, 34.4]",,,,Blocked,Normal,Free Kick,,,,0.0025580588
+110723,"[95.0, 40.7]",,David López Silva,Right Center Midfield,,Right Foot,,"[120.0, 35.4, 0.8]",True,,,Off T,Normal,Open Play,,,,0.00434782
+110724,"[105.8, 33.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[120.0, 35.0, 1.3]",True,,,Off T,Normal,Open Play,,,,0.0052252393
+110726,"[109.3, 49.3]",,José María Callejón Bueno,Right Wing,,Head,,"[117.9, 41.3, 0.9]",,,,Saved,Normal,Open Play,,,,0.0022797924
+110727,"[115.2, 47.9]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[115.7, 47.2]",True,,,Blocked,Normal,Open Play,,,,0.002098233
+110728,"[106.4, 40.5]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[113.2, 41.0, 0.3]",True,,,Saved,Normal,Open Play,True,,,0.0012662708
+110730,"[104.7, 47.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[115.7, 43.0, 0.4]",,,,Saved,Normal,Open Play,True,,,0.0046322653
+110731,"[113.1, 50.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 45.8, 4.3]",True,,,Off T,Volley,Open Play,,,,0.002902316
+110732,"[110.8, 40.3]",True,José María Callejón Bueno,Right Wing,True,Head,,"[119.4, 80.0]",,,,Wayward,Normal,Open Play,True,,,0.0019703712
+110733,"[114.9, 43.3]",,Vlad Iulian Chiricheș,Right Center Back,,Head,,"[120.0, 38.4, 0.6]",,True,,Goal,Normal,Open Play,,,,0.98622
+110734,"[105.2, 42.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 45.2, 3.3]",,,,Off T,Normal,Open Play,,,,0.0013605302
+110735,"[100.5, 22.7]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[116.8, 40.3, 0.2]",,,,Saved,Normal,Open Play,,,,0.0015184575
+110736,"[110.3, 44.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[111.2, 42.7]",,,,Wayward,Normal,Open Play,,,,0.005717728
+110737,"[85.5, 28.6]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[116.9, 40.4, 1.6]",,,,Saved,Normal,Open Play,,,,0.0014835134
+110741,"[98.5, 28.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 41.2, 3.8]",,,,Off T,Normal,Open Play,,,,0.005152652
+110743,"[99.5, 27.5]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[102.8, 29.2]",True,,,Blocked,Normal,Open Play,,,,0.0013215522
+110744,"[108.2, 43.7]",,José María Callejón Bueno,Right Wing,True,Head,,"[117.7, 42.5, 2.1]",,True,,Saved,Normal,Open Play,True,,,0.002295935
+110745,"[106.9, 53.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[116.8, 42.6, 2.0]",,,,Saved to Post,Normal,Open Play,,True,,0.0026635309
+110746,"[106.3, 50.1]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[108.2, 49.2]",True,,,Blocked,Normal,Open Play,True,,,0.0007278915
+110747,"[96.5, 21.1]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 54.2, 0.0]",,,,Off T,Normal,Open Play,,,,0.0025246572
+110748,"[113.5, 42.7]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[120.0, 43.0, 0.2]",True,,,Goal,Normal,Open Play,,,,0.9877707
+110750,"[104.1, 45.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 34.6, 0.2]",,,,Off T,Normal,Open Play,,,,0.0051012095
+110751,"[97.9, 31.7]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[104.3, 34.8]",,,,Blocked,Normal,Open Play,True,,,0.0014870053
+110752,"[108.9, 23.2]",,Dries Mertens,Left Wing,,Left Foot,,"[120.0, 54.0, 0.2]",,,,Off T,Normal,Open Play,,,,0.016900465
+115099,"[93.6, 28.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 33.7, 0.2]",,,,Off T,Normal,Open Play,,,,0.0056250053
+115100,"[116.4, 48.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[119.1, 44.4, 1.0]",,,,Saved,Normal,Open Play,,,,0.0019149912
+115101,"[94.6, 29.2]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[101.2, 31.2]",True,,,Blocked,Normal,Open Play,,,,0.0012172126
+115102,"[88.0, 57.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 54.3, 6.7]",,,,Off T,Normal,Open Play,,,,0.0013916297
+115103,"[92.4, 31.3]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[101.7, 33.3]",,,,Blocked,Normal,Open Play,True,,,0.0015936808
+115104,"[108.1, 40.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 43.0, 1.7]",,,,Goal,Normal,Penalty,,,,0.99379444
+115107,"[114.2, 58.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[119.3, 44.7, 1.2]",,True,,Saved,Normal,Open Play,,,,0.0022351174
+115108,"[108.0, 42.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[108.9, 42.2]",True,,,Blocked,Half Volley,Open Play,True,,,0.0067414255
+115109,"[109.2, 41.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[114.2, 40.6, 1.4]",True,,,Saved,Volley,Open Play,,,,0.0029393337
+115111,"[94.3, 36.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[96.6, 36.8]",,,,Blocked,Normal,Open Play,True,,,0.003318735
+115112,"[103.4, 32.5]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 42.1, 4.5]",,,,Off T,Normal,Open Play,True,,,0.00468858
+115113,"[90.4, 33.9]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[116.9, 36.9, 1.0]",,,,Saved,Normal,Open Play,True,,,0.0025819072
+115114,"[98.0, 51.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[115.8, 42.0, 2.0]",True,,,Saved,Half Volley,Open Play,,,,0.0033943981
+115117,"[112.5, 53.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 39.9, 4.4]",,True,,Off T,Lob,Open Play,,,,0.0080396
+115118,"[112.3, 29.1]",,Dries Mertens,Left Wing,,Right Foot,,"[118.3, 35.4, 1.3]",True,,,Saved,Volley,Open Play,True,,,0.0030212265
+115119,"[87.9, 23.0]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[89.9, 23.9]",,,,Blocked,Normal,Open Play,,,,0.0013198635
+115120,"[93.7, 49.2]",,Lorenzo Insigne,Right Wing,,Right Foot,,"[120.0, 41.2, 6.8]",,,,Off T,Normal,Open Play,True,,,0.003811216
+115121,"[94.0, 45.2]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 51.0, 6.6]",,,,Off T,Normal,Open Play,,,,0.0008722848
+119450,"[106.6, 50.6]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 45.3, 6.0]",True,,,Off T,Volley,Open Play,,,,0.0007743864
+119451,"[97.2, 46.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[118.3, 43.4, 0.7]",True,,,Saved,Normal,Open Play,True,,,0.0016582231
+119452,"[114.8, 44.5]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 46.6, 4.8]",True,,,Off T,Volley,Open Play,,,,0.0035160729
+119454,"[92.6, 31.3]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[102.8, 35.6]",True,,,Blocked,Volley,Open Play,True,,,0.0012868893
+119455,"[107.2, 42.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[118.5, 38.1, 1.0]",,,,Saved,Normal,Open Play,,,,0.0026523646
+119456,"[104.8, 55.2]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[119.0, 43.7, 0.2]",,,,Saved,Normal,Open Play,,,,0.0013320555
+119458,"[99.5, 52.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[103.1, 49.9]",,,,Blocked,Half Volley,Open Play,,,,0.0012673506
+119461,"[101.7, 28.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[102.6, 28.9]",,,,Blocked,Normal,Open Play,,,,0.0012135353
+119462,"[114.0, 50.5]",,Marek Hamšík,Left Center Midfield,,Head,,"[118.0, 41.7, 1.4]",,True,,Saved,Normal,Open Play,,,,0.0034129603
+119463,"[111.9, 37.6]",,Lorenzo Insigne,Left Wing,,Head,,"[118.4, 39.0, 1.1]",,,,Saved,Diving Header,Open Play,,,,0.0031491586
+119464,"[84.8, 39.3]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 29.7, 6.0]",True,,,Off T,Half Volley,Open Play,,,,0.0017073316
+119465,"[110.5, 47.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.7, 0.8]",,True,,Goal,Half Volley,Open Play,,,,0.98867023
+119466,"[110.7, 42.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 34.9, 0.8]",True,,,Off T,Normal,Open Play,,,,0.0077195275
+119467,"[93.1, 46.3]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[115.6, 40.7, 0.2]",,,,Saved,Normal,Open Play,True,,,0.002651552
+119468,"[95.3, 26.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 34.9, 0.2]",,,,Off T,Normal,Open Play,,,,0.0056250053
+119469,"[90.8, 26.3]",,Dries Mertens,Right Wing,,Right Foot,,"[120.0, 46.2, 0.8]",,,,Off T,Normal,Open Play,,,,0.0027321384
+119472,"[114.5, 44.6]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[115.6, 44.0]",,,,Blocked,Normal,Open Play,,,,0.0023775718
+119473,"[105.2, 35.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[107.5, 36.7]",True,,,Blocked,Half Volley,Open Play,,,,0.0022078382
+119474,"[104.6, 32.4]",,Dries Mertens,Right Wing,,Right Foot,,"[105.7, 33.2]",,,,Blocked,Normal,Open Play,,,,0.00095083733
+119476,"[103.3, 29.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.9, 1.4]",,,,Goal,Normal,Open Play,,,,0.97319704
+119479,"[110.7, 45.2]",,Manolo Gabbiadini,Left Wing,,Left Foot,,"[117.9, 41.8, 2.1]",True,,,Saved,Volley,Open Play,,,,0.0023738525
+119480,"[103.3, 47.2]",,Allan Marques Loureiro,Right Center Midfield,,Left Foot,,"[117.8, 41.4, 2.3]",,,,Saved,Normal,Open Play,True,,,0.0010938258
+119481,"[109.0, 36.5]",,Omar El Kaddouri,Center Forward,,Right Foot,,"[120.0, 43.3, 0.2]",True,,,Goal,Normal,Open Play,,,,0.9896791
+122539,"[91.5, 41.2]",,Faouzi Ghoulam,Left Back,,Right Foot,,"[120.0, 43.8, 5.1]",True,,,Off T,Normal,Open Play,,,,0.0011716484
+122540,"[110.3, 55.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[113.0, 42.3]",,,,Wayward,Half Volley,Open Play,True,,,0.0051276293
+122541,"[100.1, 43.0]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.9, 1.9]",True,,,Goal,Half Volley,Open Play,True,,,0.9844571
+122544,"[108.1, 37.2]",,Raúl Albiol i Tortajada,Right Center Back,True,Head,,"[120.0, 34.3, 1.5]",,,,Off T,Normal,Open Play,True,,,0.004860387
+122545,"[106.8, 40.9]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[108.4, 40.7, 1.6]",True,,,Saved,Half Volley,Open Play,,,,0.0009328027
+122548,"[97.7, 36.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 46.1, 5.8]",,,,Off T,Normal,Open Play,,,,0.0017095795
+122549,"[113.6, 25.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 34.8, 1.1]",,,,Off T,Half Volley,Open Play,,,,0.007841875
+122553,"[90.3, 51.7]",,Lorenzo Insigne,Right Wing,,Right Foot,,"[120.0, 46.1, 6.3]",,,,Off T,Normal,Open Play,,,,0.0007292722
+122554,"[106.8, 57.6]",,Lorenzo Insigne,Right Wing,,Right Foot,,"[120.0, 34.5, 0.2]",True,,,Off T,Normal,Open Play,,,,0.0028677613
+122556,"[109.8, 36.3]",,Omar El Kaddouri,Right Wing,,Head,,"[118.7, 38.9, 2.2]",,True,,Saved,Normal,Open Play,,,,0.0020824594
+122557,"[92.0, 49.8]",,Dries Mertens,Left Wing,,Right Foot,,"[93.1, 49.4]",,,,Blocked,Normal,Open Play,True,,,0.00083011703
+122558,"[112.6, 42.5]",,Marek Hamšík,Left Defensive Midfield,True,Head,,"[120.0, 45.9, 1.6]",,,,Off T,Normal,Open Play,True,,,0.010321131
+122559,"[92.1, 28.8]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[96.3, 30.7]",,,,Blocked,Normal,Open Play,,,,0.0023020841
+126715,"[108.7, 17.7]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 36.0, 1.7]",,,,Post,Normal,Free Kick,,,,0.0058596274
+126716,"[96.2, 49.3]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 31.7, 0.2]",True,,,Off T,Volley,Open Play,,,,0.0042818524
+126717,"[112.9, 31.4]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 36.0, 0.6]",,,,Post,Half Volley,Open Play,,,,0.0077709854
+126718,"[107.7, 26.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[108.3, 27.3]",,,,Blocked,Normal,Open Play,True,,,0.001942303
+126719,"[98.9, 35.0]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[110.0, 36.8]",True,,,Blocked,Normal,Open Play,,,,0.0019560969
+126720,"[107.7, 28.5]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[114.7, 35.8, 0.2]",,,,Saved,Normal,Open Play,,,,0.0020422263
+126721,"[100.1, 50.0]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[108.2, 38.2]",True,,,Wayward,Volley,Open Play,,,,0.0026379519
+126724,"[115.0, 38.7]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[118.3, 38.3, 0.4]",True,,,Saved,Normal,Open Play,,,,0.005033369
+126725,"[111.6, 49.9]",,David López Silva,Right Center Midfield,,Right Foot,,"[120.0, 34.1, 0.2]",,,,Off T,Half Volley,Open Play,True,,,0.00858985
+126726,"[110.6, 50.4]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[118.3, 41.1, 1.7]",True,,,Saved,Volley,Open Play,,,,0.0018825255
+126727,"[108.2, 37.9]",,Manolo Gabbiadini,Center Forward,True,Head,,"[120.0, 38.9, 0.9]",,,,Goal,Normal,Open Play,True,,,0.9849118
+126728,"[91.8, 50.2]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 35.5, 3.6]",,,,Off T,Normal,Open Play,,,,0.002919165
+126729,"[99.7, 28.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[101.6, 29.7]",,,,Blocked,Normal,Open Play,,,,0.0022483936
+126730,"[108.0, 40.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 36.3, 0.6]",,,,Goal,Normal,Penalty,,,,0.96572703
+126731,"[96.4, 56.1]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[105.5, 50.5]",,,,Blocked,Normal,Free Kick,,,,0.0010116136
+126732,"[91.3, 43.0]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[102.7, 42.9]",,,,Blocked,Normal,Free Kick,,,,0.0029125148
+126736,"[112.4, 42.0]",,José María Callejón Bueno,Center Forward,,Right Foot,,"[120.0, 40.2, 1.0]",True,,,Goal,Normal,Open Play,True,,,0.98211104
+126738,"[103.8, 31.7]",,José María Callejón Bueno,Center Forward,,Right Foot,,"[120.0, 32.6, 0.8]",True,,,Off T,Half Volley,Open Play,,,,0.0030086453
+126739,"[103.0, 21.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[107.5, 27.3]",,,,Blocked,Normal,Open Play,,,,0.0011575144
+130593,"[89.5, 36.2]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[117.3, 39.3, 1.1]",,,,Saved,Normal,Open Play,,,,0.0017745188
+130594,"[86.8, 41.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 29.6, 0.3]",,,,Off T,Normal,Open Play,True,,,0.006712934
+130595,"[87.4, 41.2]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[117.3, 40.3, 2.0]",,,,Saved,Normal,Open Play,,,,0.002168668
+130596,"[93.8, 29.6]",,Ivan Strinić,Left Back,,Left Foot,,"[100.6, 31.6]",True,,,Blocked,Half Volley,Open Play,,,,0.0012172126
+130597,"[90.8, 42.8]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[100.0, 41.7]",,,,Blocked,Normal,Free Kick,,,,0.0041731643
+130604,"[109.5, 55.2]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 33.0, 1.0]",True,,,Off T,Volley,Open Play,,,,0.004427285
+130607,"[103.2, 27.0]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 34.8, 3.5]",True,,,Off T,Normal,Open Play,,,,0.0010276928
+130609,"[89.9, 44.6]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 37.8, 6.5]",,,,Off T,Normal,Open Play,,,,0.005744421
+130611,"[95.7, 25.4]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 33.2, 3.6]",,,,Off T,Normal,Open Play,,,,0.0018532606
+130612,"[106.4, 50.1]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[107.2, 49.9]",,,,Blocked,Half Volley,Open Play,True,,,0.0007893088
+134719,"[98.5, 31.4]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[117.1, 41.7, 0.2]",,,,Saved,Normal,Open Play,,,,0.0024300735
+134720,"[109.5, 31.1]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 43.3, 0.6]",True,,,Goal,Half Volley,Open Play,,,,0.9888437
+134721,"[108.2, 25.9]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[116.2, 37.4, 0.2]",,,,Saved,Half Volley,Open Play,True,,,0.004843235
+134722,"[107.8, 34.6]",,Raúl Albiol i Tortajada,Right Center Back,True,Head,,"[118.5, 39.2, 2.4]",,,,Saved,Normal,Open Play,True,,,0.0012810364
+134723,"[113.3, 42.5]",,Manolo Gabbiadini,Center Forward,,Head,,"[114.7, 42.4]",,,,Blocked,Normal,Open Play,,,,0.0061602304
+134724,"[105.3, 36.0]",,Raúl Albiol i Tortajada,Right Center Back,,Right Foot,,"[120.0, 39.3, 4.9]",,,,Off T,Half Volley,Open Play,True,,,0.0029462257
+134725,"[91.9, 33.6]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[115.6, 39.5, 0.2]",,,,Saved,Normal,Open Play,,,,0.0038894447
+134726,"[113.9, 28.8]",,Dries Mertens,Left Wing,True,Head,,"[118.2, 36.7, 1.3]",,,,Saved,Normal,Open Play,True,,,0.0027225437
+134729,"[92.7, 26.2]",,Dries Mertens,Left Wing,,Right Foot,,"[94.6, 27.0]",,,,Blocked,Normal,Open Play,,,,0.0021894742
+134730,"[108.0, 40.0]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 36.7, 0.2]",,,,Goal,Normal,Penalty,,,,0.98169404
+134731,"[103.3, 43.6]",,Manolo Gabbiadini,Center Forward,,Left Foot,,"[120.0, 35.1, 3.9]",,,,Off T,Normal,Open Play,,,,0.0024368078
+134732,"[98.5, 28.0]",,Dries Mertens,Left Wing,,Right Foot,,"[117.9, 39.0, 1.7]",,,,Saved,Normal,Open Play,,,,0.0025980005
+134735,"[108.7, 26.8]",,Dries Mertens,Left Wing,,Left Foot,True,"[120.0, 37.8, 0.2]",,,,Goal,Normal,Open Play,,,,0.9854396
+134736,"[106.9, 26.0]",,Dries Mertens,Left Wing,,Left Foot,,"[120.0, 35.6, 1.6]",,,,Off T,Normal,Open Play,,,,0.0030183427
+134737,"[103.0, 40.0]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[118.8, 37.8, 1.2]",,,,Saved,Volley,Open Play,,,,0.002064564
+134739,"[106.9, 51.0]",,Dries Mertens,Center Forward,,Right Foot,,"[120.0, 43.3, 0.8]",,True,,Goal,Normal,Open Play,,,,0.97783536
+134740,"[95.3, 38.6]",,Jorge Luiz Frello Filho,Center Defensive Midfield,,Right Foot,,"[120.0, 53.2, 0.2]",True,,,Off T,Normal,Open Play,,,,0.0024933254
+134741,"[96.9, 43.4]",,Dries Mertens,Center Forward,,Right Foot,,"[120.0, 42.9, 2.3]",,,,Goal,Normal,Open Play,,,,0.9591667
+134742,"[106.6, 33.9]",,David López Silva,Left Center Midfield,,Right Foot,,"[110.1, 35.7, 0.5]",,True,,Saved,Normal,Open Play,,,,0.0021256881
+134743,"[108.3, 34.8]",,David López Silva,Left Center Midfield,,Other,,"[120.0, 41.5, 0.4]",True,,,Goal,Normal,Open Play,,,,0.981087
+138565,"[94.8, 39.9]",,Dries Mertens,Left Wing,,Right Foot,,"[117.1, 42.5, 1.3]",,,,Saved,Normal,Open Play,,,,0.0029680466
+138566,"[108.0, 40.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[110.3, 40.4, 0.8]",,,,Saved,Normal,Open Play,,,,0.0035187907
+138569,"[96.0, 43.9]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 45.8, 6.1]",,,,Off T,Normal,Open Play,,,,0.0009732553
+138570,"[106.7, 23.6]",,Marek Hamšík,Left Center Midfield,,Left Foot,True,"[117.1, 36.6, 0.9]",,,,Saved,Normal,Open Play,,,,0.0015034289
+138575,"[104.5, 27.1]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 47.4, 1.6]",,,,Off T,Normal,Open Play,True,,,0.0036054696
+138576,"[94.6, 33.3]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 45.3, 4.9]",,,,Off T,Normal,Open Play,,,,0.0021645227
+138577,"[107.2, 56.6]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[109.9, 52.5]",,,,Blocked,Normal,Open Play,,,,0.0007893088
+138578,"[113.9, 31.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[116.4, 34.5, 0.5]",True,,,Saved,Half Volley,Open Play,True,,,0.0027935794
+138579,"[93.1, 27.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 46.2, 4.4]",,,,Off T,Normal,Open Play,,,,0.0018525374
+143181,"[106.6, 23.4]",,Faouzi Ghoulam,Left Back,,Right Foot,,"[117.7, 37.2, 0.2]",,,,Saved,Normal,Open Play,True,,,0.0025227473
+143182,"[113.2, 46.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 39.8, 1.1]",True,,,Goal,Volley,Open Play,,,,0.98542434
+143183,"[86.3, 46.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.0, 38.7, 0.2]",,,,Saved,Normal,Open Play,,,,0.0040430264
+143184,"[94.0, 42.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.1, 38.9, 2.0]",,,,Saved,Lob,Open Play,,,,0.0033075756
+143185,"[90.6, 36.7]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[119.1, 41.1, 2.4]",,,,Saved,Normal,Open Play,True,,,0.001423887
+143186,"[107.3, 32.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 49.1, 1.1]",True,,,Off T,Overhead Kick,Open Play,,,,0.006672508
+143188,"[94.5, 47.4]",,Elseid Hysaj,Right Back,,Right Foot,,"[100.8, 44.9]",True,,,Blocked,Volley,Open Play,True,,,0.0005976119
+143189,"[112.1, 36.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[112.9, 36.9]",True,,,Blocked,Normal,Open Play,True,,,0.0048478544
+143190,"[103.6, 40.0]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[116.2, 39.2, 0.2]",,,,Saved,Normal,Open Play,True,,,0.0020511106
+143191,"[94.4, 33.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[118.8, 36.4, 0.4]",,,,Saved,Normal,Open Play,,,,0.0030038175
+143192,"[97.3, 21.4]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 35.0, 0.3]",,,,Off T,Normal,Open Play,,,,0.004098185
+143193,"[107.9, 26.6]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 37.3, 2.8]",,,,Post,Normal,Open Play,,,,0.004594084
+143194,"[102.5, 25.7]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 45.7, 0.5]",,,,Off T,Normal,Open Play,True,,,0.00456497
+143196,"[104.1, 53.6]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 41.3, 3.6]",True,,,Off T,Lob,Open Play,True,,,0.002243439
+143197,"[104.0, 27.1]",,Dries Mertens,Left Wing,,Right Foot,,"[120.0, 44.7, 0.2]",,,,Off T,Normal,Open Play,True,,,0.004661838
+143198,"[107.7, 42.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[120.0, 43.2, 0.4]",,,,Goal,Normal,Open Play,,,,0.985393
+143201,"[108.2, 31.5]",,Dries Mertens,Left Wing,,Left Foot,,"[112.1, 34.0, 1.4]",,,,Saved,Normal,Open Play,,,,0.0020485998
+143202,"[110.0, 38.5]",,Omar El Kaddouri,Right Wing,,Left Foot,,"[118.5, 37.8, 0.7]",True,,,Saved,Normal,Open Play,,,,0.0029801994
+147000,"[109.2, 50.1]",,Gonzalo Gerardo Higuaín,Center Forward,,Head,,"[111.0, 48.9]",,,,Blocked,Normal,Open Play,,,,0.0019707896
+147001,"[96.9, 44.7]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[105.6, 44.1]",,,,Blocked,Half Volley,Open Play,True,,,0.0007624461
+147002,"[103.4, 48.5]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,True,"[118.4, 43.8, 0.9]",,,,Saved,Normal,Open Play,True,,,0.0011899768
+147003,"[102.0, 36.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Left Foot,,"[118.2, 38.1, 0.4]",True,,,Saved,Volley,Open Play,True,,,0.0016798906
+147004,"[108.1, 30.3]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 43.2, 0.2]",,,,Goal,Normal,Open Play,True,,,0.9933976
+147008,"[115.7, 41.5]",,José María Callejón Bueno,Right Wing,,Left Foot,,"[120.0, 39.6, 0.2]",True,,True,Goal,Normal,Open Play,True,,,0.97966236
+147009,"[94.9, 37.4]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 44.1, 0.3]",,,,Post,Normal,Open Play,True,,,0.0038625048
+147010,"[104.5, 39.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.0, 39.7, 0.7]",True,,,Saved,Volley,Open Play,True,,,0.0015317767
+147011,"[84.8, 43.6]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[118.1, 38.3, 0.3]",,,,Saved,Normal,Free Kick,,,,0.0025844849
+147012,"[113.0, 53.4]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[120.0, 46.1, 0.4]",True,,,Off T,Half Volley,Open Play,True,,,0.013215408
+147013,"[92.8, 48.0]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 44.3, 5.6]",,,,Off T,Normal,Open Play,True,,,0.0009732553
+147014,"[85.5, 22.8]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 34.7, 7.4]",,,,Off T,Normal,Open Play,,,,0.0018532606
+147015,"[95.9, 52.3]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[100.5, 50.2]",,,,Blocked,Normal,Open Play,,,,0.00083011703
+147019,"[109.3, 56.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 42.4, 5.0]",,True,,Off T,Normal,Open Play,True,,,0.010577972
+147020,"[99.4, 46.4]",,Lorenzo Insigne,Left Wing,,Left Foot,,"[120.0, 36.2, 6.3]",,,,Off T,Normal,Open Play,True,,,0.00330531
+150701,"[109.4, 44.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 45.3, 1.4]",True,,,Off T,Half Volley,Open Play,True,,,0.011550166
+150703,"[103.1, 56.7]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[120.0, 34.1, 0.3]",,,,Off T,Normal,Open Play,,,,0.0028121674
+150704,"[90.4, 41.1]",,Elseid Hysaj,Right Back,,Left Foot,,"[120.0, 50.7, 0.3]",True,,,Off T,Normal,Open Play,True,,,0.0017256637
+150705,"[92.2, 29.3]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 41.2, 6.6]",,,,Off T,Normal,Free Kick,,,,0.0031098006
+150706,"[94.4, 29.5]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[117.9, 41.4, 0.6]",,,,Saved,Normal,Open Play,,,,0.0029996475
+150707,"[104.8, 30.2]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[116.3, 39.7]",True,,,Blocked,Volley,Open Play,,,,0.0015777015
+150709,"[102.4, 27.8]",True,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 43.6, 2.8]",,,,Post,Normal,Open Play,,,,0.0041388804
+150710,"[94.6, 31.4]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[120.0, 46.9, 7.0]",True,,,Off T,Half Volley,Open Play,,,,0.0011036794
+150711,"[114.6, 35.2]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[115.4, 35.6]",True,,,Blocked,Half Volley,Open Play,,,,0.0025901033
+150712,"[92.3, 31.4]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[101.8, 34.6]",,,,Blocked,Normal,Open Play,,,,0.0014870053
+150713,"[114.5, 53.6]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[118.3, 45.4, 1.8]",True,,,Saved,Volley,Open Play,,,,0.0014344825
+150714,"[105.9, 34.7]",,Vlad Iulian Chiricheș,Right Center Back,,Right Foot,,"[118.2, 39.4, 0.3]",True,,,Saved,Volley,Open Play,,,,0.0019961912
+150715,"[112.8, 48.9]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[116.8, 42.5, 1.6]",True,,,Saved,Normal,Open Play,,,,0.0032365832
+150716,"[93.5, 38.7]",,Allan Marques Loureiro,Right Center Midfield,,Right Foot,,"[96.4, 38.8]",,,,Blocked,Normal,Open Play,,,,0.0021727795
+150717,"[90.1, 27.7]",,Jorge Luiz Frello Filho,Center Defensive Midfield,,Right Foot,,"[104.9, 33.4]",,,,Blocked,Normal,Open Play,,,,0.0015936808
+150718,"[105.5, 34.8]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[112.7, 35.9]",,,,Blocked,Normal,Open Play,,,,0.0018009072
+150719,"[99.9, 28.6]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[117.1, 40.8, 0.5]",True,,,Saved,Normal,Open Play,,,,0.002015415
+150720,"[114.5, 37.1]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 37.2, 2.0]",True,,,Goal,Half Volley,Open Play,True,,,0.9797441
+150721,"[111.7, 52.9]",,José María Callejón Bueno,Right Wing,,Right Foot,,"[116.9, 44.2]",True,,,Blocked,Half Volley,Open Play,,,,0.002098233
+150722,"[107.7, 39.9]",,Vlad Iulian Chiricheș,Right Center Back,,Right Foot,,"[120.0, 43.9, 6.8]",True,,,Off T,Half Volley,Open Play,True,,,0.0031407557
+150723,"[96.9, 44.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 45.9, 7.0]",,,,Off T,Normal,Open Play,,,,0.0013916297
+150725,"[102.6, 50.6]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[107.7, 48.5]",True,,,Blocked,Half Volley,Open Play,,,,0.00081734656
+150726,"[114.7, 43.8]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 43.0, 0.6]",True,,,Goal,Volley,Open Play,,,,0.99234164
+150728,"[99.3, 24.6]",,Lorenzo Insigne,Left Wing,,Right Foot,,"[120.0, 47.5, 1.5]",,,,Off T,Normal,Open Play,,,,0.0036752545
+150729,"[115.2, 46.9]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 37.1, 1.4]",True,,,Goal,Volley,Open Play,,,,0.9859352
+150732,"[95.1, 29.1]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[98.3, 30.5]",,,,Blocked,Normal,Open Play,,,,0.001395408
+150733,"[104.3, 32.2]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[116.6, 37.5, 0.7]",True,,,Saved,Normal,Open Play,,,,0.0012941178
+150734,"[100.4, 31.4]",,Marek Hamšík,Left Center Midfield,,Right Foot,,"[120.0, 42.7, 5.2]",True,,,Off T,Normal,Open Play,,,,0.0048477626
+150735,"[103.2, 37.2]",,Gonzalo Gerardo Higuaín,Center Forward,,Right Foot,,"[120.0, 39.5, 1.8]",,,,Goal,Volley,Open Play,True,,,0.94677883
+150739,"[106.8, 32.3]",,Marek Hamšík,Left Center Midfield,,Left Foot,,"[120.0, 26.8, 0.4]",True,,,Off T,Volley,Open Play,,,,0.0044135735
+150740,"[97.8, 54.1]",,Lorenzo Insigne,Right Wing,,Right Foot,,"[116.3, 45.1, 0.2]",,,,Saved,Normal,Open Play,,,,0.00057128
+150741,"[107.8, 21.2]",,Faouzi Ghoulam,Left Back,,Left Foot,,"[109.7, 24.7]",,,,Blocked,Normal,Open Play,,,,0.0011707474
+150742,"[112.4, 36.4]",,Dries Mertens,Left Wing,,Head,,"[117.9, 37.8, 0.9]",,True,,Saved,Normal,Open Play,,,,0.00384514
