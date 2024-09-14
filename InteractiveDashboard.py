@@ -96,7 +96,7 @@ for i, row in filtered_matches.iterrows():
     
     # Add home team logo
     with col1:
-        home_team_image = f"SSCNapoliAnalysis\Sources\Images\SquadLogos\{row['home_team']}.png"  # Replace with actual logo paths or URLs
+        home_team_image = f"SSCNapoliAnalysis\Images\SquadLogos\{row['home_team']}.png"  # Replace with actual logo paths or URLs
         st.image(home_team_image, caption=row['home_team'], width=150)
 
     # Add the score at the center with larger size and dynamic color
@@ -112,7 +112,7 @@ for i, row in filtered_matches.iterrows():
 
     # Add away team logo
     with col3:
-        away_team_image = f"SSCNapoliAnalysis\Sources\Images\SquadLogos\{row['away_team']}.png"  # Replace with actual logo paths or URLs
+        away_team_image = f"SSCNapoliAnalysis\Images\SquadLogos\{row['away_team']}.png"  # Replace with actual logo paths or URLs
         st.image(away_team_image, caption=row['away_team'], width=150)
 
     # Centering the match info below the logos and result
@@ -349,8 +349,8 @@ player_2_data = players_stats[players_stats['player'] == player_2].iloc[0]
 
 # Display player images (Assume you have the images available)
 # Replace "player_image_path" with actual .webp image file paths or URLs for each player
-player_1_image_path = f"SSCNapoliAnalysis\Sources\Images\PlayerImages\{player_1}.webp"
-player_2_image_path = f"SSCNapoliAnalysis\Sources\Images\PlayerImages\{player_2}.webp"
+player_1_image_path = f"SSCNapoliAnalysis\Images\PlayerImages\{player_1}.webp"
+player_2_image_path = f"SSCNapoliAnalysis\Images\PlayerImages\{player_2}.webp"
 
 # Columns for displaying player images and the horizontal bar chart in the center
 col1, col2, col3 = st.columns([0.5, 2, 0.5])
