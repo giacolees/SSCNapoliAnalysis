@@ -1,3 +1,6 @@
+# =====================================
+# 1. Imports and Configurations
+# =====================================
 import streamlit as st
 import pandas as pd
 import ast
@@ -6,17 +9,13 @@ import base64
 import numpy as np
 import plotly.graph_objects as go
 
-matches = r"SSCNapoliAnalysis\Sources\matches_napoli_filtered.csv"
-performances = r"SSCNapoliAnalysis\Sources\napoli_performances.csv"
-passes = r"SSCNapoliAnalysis\Sources\passes_napoli.csv"
-shots = r"SSCNapoliAnalysis\Sources\shots_napoli_filtered.csv"
-carries = r"SSCNapoliAnalysis\Sources\carries_filtered.csv"
-players_stats = r"SSCNapoliAnalysis\Sources\players_stats.csv"
-model_path = r"SSCNapoliAnalysis\Sources\matches_napoli_filtered.csv"
-image_field_path = r"SSCNapoliAnalysis\Sources\Football-field-football-soccer-field-clipart.png"
+# Set Streamlit page configuration
+st.set_page_config(layout="wide")
 
-st.cache_data.clear()
 
+# =====================================
+# 2. Data Loading Functions
+# =====================================
 @st.cache_data
 def load_csv(path, nrows=None, first_column_indexes=True):
     if first_column_indexes:
@@ -25,26 +24,52 @@ def load_csv(path, nrows=None, first_column_indexes=True):
         df = pd.read_csv(path, nrows=nrows)
     return df
 
+# =====================================
+# 3. Utility Functions
+# =====================================
 def get_base64_image(image_path):
     with open(image_path, 'rb') as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode()
     return f"data:image/png;base64,{encoded_string}"
 
+# Clear cached data
+st.cache_data.clear()
+
+# =====================================
+# 4. Page Setup
+# =====================================
+# Load image for background or logo
+image_field_path = r'SSCNapoliAnalysis\Sources\Football-field-football-soccer-field-clipart.png'
 image_base64 = get_base64_image(image_field_path)
 
-st.set_page_config(layout="wide")
-
+# Set up page title and description
 st.title('SSC Napoli 2015/2016 Season Analysis')
-
-st.write('This dashboard is a data-driven analysis of SSC Napoli\'s 2015/2016 season. The data used in this analysis is sourced from the StatsBomb open-data repository.')
-
+st.write("This dashboard is a data-driven analysis of SSC Napoli's 2015/2016 season. The data used in this analysis is sourced from the StatsBomb open-data repository.")
 st.write('The analysis is divided into three sections:')
 
-st.write('1. **Team Performance Analysis**: This section provides an overview of SSC Napoli\'s performance in the 2015/2016 season. It includes metrics such as goals scored, goals conceded, and goal difference.')
 
-st.write('2. **Match Analysis**: This section provides an overview of SSC Napoli\'s performance in individual matches. It includes metrics such as goals scored, goals conceded, and expected goals (xG) for each match.')
+# =====================================
+# 5. Analysis Sections
+# =====================================
+# 5.1 Team Performance Analysis
+st.write("1. **Team Performance Analysis**: This section provides an overview of SSC Napoli's performance in the 2015/2016 season. It includes metrics such as goals scored, goals conceded, and goal difference.")
 
-st.write('3. **Player Performance Analysis**: This section provides an overview of the top players in SSC Napoli\'s squad based on various performance metrics such as shots made, goals scored, assists, expected goals (xG), expected assist(xA), Dangerous Carries Index(DCI).')
+# 5.2 Match Analysis
+st.write("2. **Match Analysis**: This section provides an overview of SSC Napoli's performance in individual matches. It includes metrics such as goals scored, goals conceded, and expected goals (xG) for each match.")
+
+# 5.3 Player Performance Analysis
+st.write("3. **Player Performance Analysis**: This section provides an in-depth look at the performance of individual players. Metrics include goals, assists, passes, shots, and more.")
+
+# =====================================
+# 6. Data Sources
+# =====================================
+matches = r"SSCNapoliAnalysis\Sources\matches_napoli_filtered.csv"
+performances = r"SSCNapoliAnalysis\Sources\napoli_performances.csv"
+passes = r"SSCNapoliAnalysis\Sources\passes_napoli.csv"
+shots = r"SSCNapoliAnalysis\Sources\shots_napoli_filtered.csv"
+carries = r"SSCNapoliAnalysis\Sources\carries_filtered.csv"
+players_stats = r"SSCNapoliAnalysis\Sources\players_stats.csv"
+model_path = r"SSCNapoliAnalysis\Sources\matches_napoli_filtered.csv"
 
 with st.spinner("Loading dataframe.."):
 

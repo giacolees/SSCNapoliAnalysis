@@ -1,0 +1,11 @@
+statsbombpy
+pandas
+numpy
+matplotlib
+sci-kit-learn
+xgboost
+seaborn
+streamlit
+ast
+base64
+plotly
